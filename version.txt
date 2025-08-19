@@ -15,3 +15,5 @@ spec: 1.0.0
 tajima@tajima-ThinkPad-T14s-Gen-5:~/lf-test$ youki --version
 youki version 0.5.4
 commit: 0.5.4-0-8f5805df5919c134743e2ef158989602678e9371
+
+https://www.lf-lang.org/docs/installation/
