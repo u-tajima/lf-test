@@ -1,0 +1,17 @@
+tajima@tajima-ThinkPad-T14s-Gen-5:~/lf-test$ lfc --version
+lfc 0.9.1-SNAPSHOT
+tajima@tajima-ThinkPad-T14s-Gen-5:~/lf-test$ runc --version
+runc version 1.1.12
+commit: v1.1.12-0-g51d5e946
+spec: 1.0.2-dev
+go: go1.20.13
+libseccomp: 2.5.4
+tajima@tajima-ThinkPad-T14s-Gen-5:~/lf-test$ crun --version
+crun version 1.22.0.0.0.39-411e5
+commit: 411e56c5cb96ba8f805adc160bcb5de6a6454de1
+rundir: /run/user/1000/crun
+spec: 1.0.0
++SYSTEMD +SELINUX +APPARMOR +CAP +SECCOMP +EBPF +YAJL
+tajima@tajima-ThinkPad-T14s-Gen-5:~/lf-test$ youki --version
+youki version 0.5.4
+commit: 0.5.4-0-8f5805df5919c134743e2ef158989602678e9371
