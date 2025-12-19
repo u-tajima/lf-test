@@ -1,0 +1,20 @@
+Linux 6.14.0-36-generic (yu-Surface-Laptop-3) 	2025年12月09日 	_x86_64_	(4 CPU)
+
+05時32分10秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+05時32分11秒  all    3.53    0.00    1.76    0.00    0.00    0.25    0.00    0.00    0.00   94.46
+Linux 6.14.0-36-generic (yu-Surface-Laptop-3) 	2025年12月09日 	_x86_64_	(4 CPU)
+
+05時32分53秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+05時32分54秒  all    0.50    0.00    0.76    0.00    0.00    0.00    0.00    0.00    0.00   98.74
+Linux 6.14.0-36-generic (yu-Surface-Laptop-3) 	2025年12月09日 	_x86_64_	(4 CPU)
+
+05時33分36秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+05時33分37秒  all    1.00    0.00    0.75    0.00    0.00    0.00    0.00    0.00    0.00   98.26
+Linux 6.14.0-36-generic (yu-Surface-Laptop-3) 	2025年12月09日 	_x86_64_	(4 CPU)
+
+05時34分20秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+05時34分21秒  all    0.75    0.00    0.25    0.00    0.00    0.00    0.00    0.00    0.00   98.99
+Linux 6.14.0-36-generic (yu-Surface-Laptop-3) 	2025年12月09日 	_x86_64_	(4 CPU)
+
+05時35分05秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+05時35分06秒  all    0.75    0.00    0.25    0.00    0.00    0.00    0.00    0.00    0.00   99.00

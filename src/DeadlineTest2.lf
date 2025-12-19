@@ -4,7 +4,7 @@ target C {
 };
 
 preamble{=
-    #define DUMMY_LOOP_COUNT 100000
+    #define DUMMY_LOOP_COUNT 0
     #include <time.h>
     #include "platform.h"
     #include <stdio.h>
@@ -56,7 +56,7 @@ reactor Source(period: time = 5 msec) {  // 少しタイトな周期推奨
 
 }
 
-reactor Destination(timeout: time = 500 usec, enable_heavy_loop: int = 0) {
+reactor Destination(timeout: time = 500 usec) {
     input x: int64_t
     state count: int = 0
     state deadline_miss_count: int = 0
@@ -71,12 +71,10 @@ reactor Destination(timeout: time = 500 usec, enable_heavy_loop: int = 0) {
         long send_time_ns = x->value;
         long error_ns = recv_time_ns - send_time_ns;
 
-        // 必要ならここにも負荷を入れる（enable_heavy_loop=1なら実行）
-        if (self->enable_heavy_loop) {
-            volatile double x_dummy = 0;
-            for (int i = 0; i < DUMMY_LOOP_COUNT; i++) {  
-                x_dummy += i * 0.0001;
-            }
+        // 必要ならここにも負荷を入れる
+        volatile double x_dummy = 0;
+        for (int i = 0; i < DUMMY_LOOP_COUNT; i++) {  
+            x_dummy += i * 0.0001;
         }
 
         // Destination latency出力
@@ -116,7 +114,7 @@ reactor Destination(timeout: time = 500 usec, enable_heavy_loop: int = 0) {
 }
 
 main reactor {
-    s = new Source(period = 3 msec)
-    d = new Destination(timeout = 700 usec, enable_heavy_loop = 1)  // Destinationはデフォルト軽い状態
+    s = new Source(period = 1 msec)
+    d = new Destination(timeout = 300 usec)  // Destinationはデフォルト軽い状態
     s.y -> d.x
 }

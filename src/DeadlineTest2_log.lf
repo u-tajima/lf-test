@@ -1,0 +1,196 @@
+target C {
+    timeout: 60 sec,
+};
+
+// ---------------------------------------------------------
+// グローバルな定義 (宣言のみ)
+// ---------------------------------------------------------
+preamble{=
+    #define DUMMY_LOOP_COUNT 1000
+    #include <time.h>
+    #include "platform.h"
+    #include <stdio.h>
+    #include <stdlib.h>
+
+    #define MAX_SAMPLES 305
+
+    // ログ用構造体
+    typedef struct {
+        long scheduler_latency_ns;
+        long print_ts_sec;
+        long print_ts_nsec;
+        int count;
+        long send_time_ns;
+        long interval_ns;
+        int has_interval;
+    } SourceLog;
+
+    typedef struct {
+        long print_ts_sec;
+        long print_ts_nsec;
+        long send_time_ns;
+        long recv_time_ns;
+        long error_ns;
+        int is_miss;
+    } DestLog;
+
+    // 変数は extern で宣言だけする (リンクエラー防止)
+    extern SourceLog s_logs[MAX_SAMPLES];
+    extern DestLog d_logs[MAX_SAMPLES];
+    extern int s_log_idx;
+    extern int d_log_idx;
+    
+    static inline long get_time_ns() {
+        struct timespec ts;
+        clock_gettime(CLOCK_REALTIME, &ts);
+        return ts.tv_sec * 1000000000L + ts.tv_nsec;
+    }
+=}
+
+reactor Source(period: time = 1 msec) {
+    output y: int64_t
+    
+    timer t(0, period)
+    state count: int = 0
+    state last_send_time: int64_t = -1
+
+    reaction(t) -> y {=
+        if (s_log_idx >= MAX_SAMPLES) return;
+
+        // 【修正】時間の基準を統一 (get_time_nsを使用)
+        long logical_fire_ns = lf_time_logical();
+        long reaction_start_ns = get_time_ns();
+
+        long scheduler_latency_ns = reaction_start_ns - logical_fire_ns;
+        
+        // 送信時刻も physical time
+        long send_time_ns = reaction_start_ns; 
+
+        // ログに保存 (printfはしない)
+        s_logs[s_log_idx].scheduler_latency_ns = scheduler_latency_ns;
+        s_logs[s_log_idx].send_time_ns = send_time_ns;
+        s_logs[s_log_idx].count = self->count;
+        s_logs[s_log_idx].print_ts_sec = send_time_ns / 1000000000L;
+        s_logs[s_log_idx].print_ts_nsec = send_time_ns % 1000000000L;
+
+        // 負荷ループ
+        volatile double x_dummy = 0;
+        for (int i = 0; i < DUMMY_LOOP_COUNT; i++) {
+            x_dummy += i * 0.0001;
+        }
+
+        // 周期ジッタ計算
+        if (self->last_send_time >= 0) {
+            long interval_ns = send_time_ns - self->last_send_time;
+            s_logs[s_log_idx].interval_ns = interval_ns;
+            s_logs[s_log_idx].has_interval = 1;
+        } else {
+            s_logs[s_log_idx].has_interval = 0;
+        }
+
+        s_log_idx++;
+        self->last_send_time = send_time_ns;
+
+        lf_set(y, send_time_ns);
+        (self->count)++;
+    =}
+}
+
+reactor Destination(timeout: time = 100 usec) { // 【推奨】timeoutは現実的な値に戻す (10usは短すぎる)
+    input x: int64_t
+    state count: int = 0
+    state deadline_miss_count: int = 0
+    state total_received: int = 0
+    state max_count: int = 300
+
+    // ログ記録用メソッド
+    method record_log(val: int64_t, is_miss: int) {=
+        if (d_log_idx >= MAX_SAMPLES) return;
+
+        long recv_time_ns = get_time_ns(); // 【修正】physical time
+        long send_time_ns = val;
+        long error_ns = recv_time_ns - send_time_ns;
+
+        d_logs[d_log_idx].print_ts_sec = recv_time_ns / 1000000000L;
+        d_logs[d_log_idx].print_ts_nsec = recv_time_ns % 1000000000L;
+        d_logs[d_log_idx].send_time_ns = send_time_ns;
+        d_logs[d_log_idx].recv_time_ns = recv_time_ns;
+        d_logs[d_log_idx].error_ns = error_ns;
+        d_logs[d_log_idx].is_miss = is_miss;
+        
+        d_log_idx++;
+    =}
+
+    reaction(x) {=
+        (self->total_received)++;
+
+        (self->count)++;
+
+        record_log(x->value, 0);
+
+        if (self->count >= self->max_count) {
+            lf_request_stop();
+        }
+    =}
+
+    deadline(timeout) {=
+        (self->total_received)++;
+
+        (self->deadline_miss_count)++;
+        (self->count)++;
+
+        record_log(x->value, 1);
+
+        if (self->count >= self->max_count) {
+            lf_request_stop();
+        }
+    =}
+
+    reaction(shutdown) {=
+        int loop_max = (s_log_idx > d_log_idx) ? s_log_idx : d_log_idx;
+        
+        for (int i = 0; i < loop_max; i++) {
+            // Source側のログ出力
+            if (i < s_log_idx) {
+                printf("Scheduler latency: %ld ns\n", s_logs[i].scheduler_latency_ns);
+                // 必要ならここもコメントアウトを外して詳細出力
+                // if (s_logs[i].has_interval) { ... }
+            }
+
+            // Destination側のログ出力
+            if (i < d_log_idx) {
+                if (d_logs[i].is_miss) {
+                    printf("[%ld.%09ld] Destination receives msg, send_time: %ld ns, recv_time: %ld ns, error: %ld ns --Deadline misses--\n", 
+                        d_logs[i].print_ts_sec, d_logs[i].print_ts_nsec,
+                        d_logs[i].send_time_ns, d_logs[i].recv_time_ns, d_logs[i].error_ns);
+                } else {
+                    printf("[%ld.%09ld] Destination receives msg, send_time: %ld ns, recv_time: %ld ns, error: %ld ns\n", 
+                        d_logs[i].print_ts_sec, d_logs[i].print_ts_nsec,
+                        d_logs[i].send_time_ns, d_logs[i].recv_time_ns, d_logs[i].error_ns);
+                }
+            }
+        }
+        printf("=== Summary ===\n");
+        printf("Total received: %d\n", self->total_received);
+        printf("Deadline misses: %d\n", self->deadline_miss_count);
+        
+        // 【重要】出力を確実にするためにフラッシュ
+        fflush(stdout);
+    =}
+}
+main reactor {
+    // ---------------------------------------------------------
+    // 【修正点2】 Main Reactor内で変数の実体を「定義」する
+    // これにより、MainのCファイルにだけメモリが確保される
+    // ---------------------------------------------------------
+    preamble {=
+        SourceLog s_logs[MAX_SAMPLES];
+        DestLog d_logs[MAX_SAMPLES];
+        int s_log_idx = 0;
+        int d_log_idx = 0;
+    =}
+
+    s = new Source(period = 1 msec)
+    d = new Destination(timeout = 300 usec)
+    s.y -> d.x
+}

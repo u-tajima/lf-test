@@ -1,0 +1,5 @@
+Linux 6.14.0-37-generic (yu-Surface-Laptop-3) 	2025年12月19日 	_x86_64_	(4 CPU)
+
+09時07分39秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+09時07分40秒  all   50.50    0.00    0.75    0.00    0.00    0.00    0.00    0.00    0.00   48.75
+09時07分41秒  all   50.25    0.00    0.50    0.00    0.00    0.00    0.00    0.00    0.00   49.25
