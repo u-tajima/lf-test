@@ -1,19 +1,17 @@
 #include "include/api/schedule.h"
-#ifdef FEDERATED
 #include <string.h>
-#endif // FEDERATED
 #include "low_level_platform/api/low_level_platform.h"
 #include "include/DeadlineTest2/Destination.h"
 #include "_destination.h"
 // ***** Start of method declarations.
 void _destination_method_record_log(void* instance_args, int64_t val, int is_miss);
 #define record_log(...) _destination_method_record_log(self, ##__VA_ARGS__)
-#line 107 "/home/yu/lf-test/src400/DeadlineTest2.lf"
+#line 107 "/home/u-tajima/lf-test/src400/DeadlineTest2.lf"
 #include "include/api/reaction_macros.h"
 // Implementation of method record_log()
 void _destination_method_record_log(void* instance_args, int64_t val, int is_miss) {
     _destination_self_t* self = (_destination_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
-    #line 108 "/home/yu/lf-test/src400/DeadlineTest2.lf"
+    #line 108 "/home/u-tajima/lf-test/src400/DeadlineTest2.lf"
     if (d_log_idx >= MAX_SAMPLES) return;
     
     long recv_time_ns = get_time_ns(); // 【修正】physical time
@@ -30,7 +28,7 @@ void _destination_method_record_log(void* instance_args, int64_t val, int is_mis
     d_log_idx++;
 }
 #include "include/api/reaction_macros_undef.h"
-#line 34 "/home/yu/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
+#line 32 "/home/u-tajima/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
 #undef record_log
 // ***** End of method declarations.
 #include "include/api/reaction_macros.h"
@@ -39,7 +37,7 @@ void _destinationreaction_function_0(void* instance_args) {
     _destination_self_t* self = (_destination_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     _destination_x_t* x = self->_lf_x;
     int x_width = self->_lf_x_width; SUPPRESS_UNUSED_WARNING(x_width);
-    #line 125 "/home/yu/lf-test/src400/DeadlineTest2.lf"
+    #line 125 "/home/u-tajima/lf-test/src400/DeadlineTest2.lf"
     (self->total_received)++;
     
     (self->count)++;
@@ -49,13 +47,13 @@ void _destinationreaction_function_0(void* instance_args) {
     if (self->count >= self->max_count) {
         lf_request_stop();
     }
-#line 53 "/home/yu/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
+#line 51 "/home/u-tajima/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
 }
 void _destination_deadline_function0(void* instance_args) {
     _destination_self_t* self = (_destination_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     _destination_x_t* x = self->_lf_x;
     int x_width = self->_lf_x_width; SUPPRESS_UNUSED_WARNING(x_width);
-    #line 137 "/home/yu/lf-test/src400/DeadlineTest2.lf"
+    #line 137 "/home/u-tajima/lf-test/src400/DeadlineTest2.lf"
     (self->total_received)++;
     
     (self->deadline_miss_count)++;
@@ -66,7 +64,7 @@ void _destination_deadline_function0(void* instance_args) {
     if (self->count >= self->max_count) {
         lf_request_stop();
     }
-#line 70 "/home/yu/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
+#line 68 "/home/u-tajima/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
 }
 #undef record_log
 #include "include/api/reaction_macros_undef.h"
@@ -75,7 +73,7 @@ void _destination_deadline_function0(void* instance_args) {
 void _destinationreaction_function_1(void* instance_args) {
     _destination_self_t* self = (_destination_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     
-    #line 150 "/home/yu/lf-test/src400/DeadlineTest2.lf"
+    #line 150 "/home/u-tajima/lf-test/src400/DeadlineTest2.lf"
     int loop_max = (s_log_idx > d_log_idx) ? s_log_idx : d_log_idx;
     
     for (int i = 0; i < loop_max; i++) {
@@ -105,7 +103,7 @@ void _destinationreaction_function_1(void* instance_args) {
     
     // 【重要】出力を確実にするためにフラッシュ
     fflush(stdout);
-#line 109 "/home/yu/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
+#line 107 "/home/u-tajima/lf-test/src-gen/src400/DeadlineTest2/_destination.c"
 }
 #undef record_log
 #include "include/api/reaction_macros_undef.h"

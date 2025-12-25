@@ -30,18 +30,18 @@ typedef struct {
 } _destination_x_t;
 typedef struct {
     struct self_base_t base;
-    #line 59 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 59 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     interval_t timeout;
-#line 36 "/home/yu/lf-test/src-gen/DeadlineTest2/_destination.h"
-    #line 61 "/home/yu/lf-test/src/DeadlineTest2.lf"
+#line 36 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_destination.h"
+    #line 61 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     int count;
-    #line 62 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 62 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     int deadline_miss_count;
-    #line 63 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 63 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     int total_received;
-    #line 64 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 64 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     int max_count;
-#line 45 "/home/yu/lf-test/src-gen/DeadlineTest2/_destination.h"
+#line 45 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_destination.h"
     _destination_x_t* _lf_x;
     // width of -2 indicates that it is not a multiport.
     int _lf_x_width;

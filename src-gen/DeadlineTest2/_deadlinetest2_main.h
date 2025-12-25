@@ -20,8 +20,8 @@ static inline long get_time_ns() {
 
 typedef struct {
     struct self_base_t base;
-#line 24 "/home/yu/lf-test/src-gen/DeadlineTest2/_deadlinetest2_main.h"
-#line 25 "/home/yu/lf-test/src-gen/DeadlineTest2/_deadlinetest2_main.h"
+#line 24 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_deadlinetest2_main.h"
+#line 25 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_deadlinetest2_main.h"
 } _deadlinetest2_main_main_self_t;
 _deadlinetest2_main_main_self_t* new__deadlinetest2_main();
 #endif // _DEADLINETEST2_MAIN_H

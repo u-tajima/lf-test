@@ -1,7 +1,5 @@
 #include "include/api/schedule.h"
-#ifdef FEDERATED
 #include <string.h>
-#endif // FEDERATED
 #include "low_level_platform/api/low_level_platform.h"
 #include "include/DeadlineTest2/Source.h"
 #include "_source.h"
@@ -11,7 +9,7 @@
 void _sourcereaction_function_0(void* instance_args) {
     _source_self_t* self = (_source_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     _source_y_t* y = &self->_lf_y;
-    #line 58 "/home/yu/lf-test/src300/DeadlineTest2.lf"
+    #line 58 "/home/u-tajima/lf-test/src300/DeadlineTest2.lf"
     if (s_log_idx >= MAX_SAMPLES) return;
     
     // 【修正】時間の基準を統一 (get_time_nsを使用)
@@ -50,7 +48,7 @@ void _sourcereaction_function_0(void* instance_args) {
     
     lf_set(y, send_time_ns);
     (self->count)++;
-#line 54 "/home/yu/lf-test/src-gen/src300/DeadlineTest2/_source.c"
+#line 52 "/home/u-tajima/lf-test/src-gen/src300/DeadlineTest2/_source.c"
 }
 #include "include/api/reaction_macros_undef.h"
 _source_self_t* new__source() {

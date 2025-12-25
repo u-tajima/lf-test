@@ -1,4 +1,4 @@
-lfc /home/yu/lf-test/src/DeadlineTest2.lf
+lfc /home/u-tajima/lf-test/src/DeadlineTest2.lf
 docker build -t lf-test .
 
 rm -r log_all/log_baseline

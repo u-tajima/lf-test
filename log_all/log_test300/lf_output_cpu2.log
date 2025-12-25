@@ -1,610 +1,610 @@
 ---- System clock resolution: 1 nsec
----- Start execution on Fri Dec 19 10:40:48 2025 ---- plus 808670514 nanoseconds
-Scheduler latency: 25528 ns
-[1766108448.808700360] Destination receives msg, send_time: 1766108448808696042 ns, recv_time: 1766108448808700360 ns, error: 4318 ns
-Scheduler latency: 76281 ns
-[1766108448.809749526] Destination receives msg, send_time: 1766108448809746795 ns, recv_time: 1766108448809749526 ns, error: 2731 ns
-Scheduler latency: 74832 ns
-[1766108448.810748031] Destination receives msg, send_time: 1766108448810745346 ns, recv_time: 1766108448810748031 ns, error: 2685 ns
-Scheduler latency: 78269 ns
-[1766108448.811751472] Destination receives msg, send_time: 1766108448811748783 ns, recv_time: 1766108448811751472 ns, error: 2689 ns
-Scheduler latency: 117794 ns
-[1766108448.812791219] Destination receives msg, send_time: 1766108448812788308 ns, recv_time: 1766108448812791219 ns, error: 2911 ns --Deadline misses--
-Scheduler latency: 116334 ns
-[1766108448.813789759] Destination receives msg, send_time: 1766108448813786848 ns, recv_time: 1766108448813789759 ns, error: 2911 ns --Deadline misses--
-Scheduler latency: 76812 ns
-[1766108448.814750102] Destination receives msg, send_time: 1766108448814747326 ns, recv_time: 1766108448814750102 ns, error: 2776 ns
-Scheduler latency: 75835 ns
-[1766108448.815749057] Destination receives msg, send_time: 1766108448815746349 ns, recv_time: 1766108448815749057 ns, error: 2708 ns
-Scheduler latency: 73756 ns
-[1766108448.816746993] Destination receives msg, send_time: 1766108448816744270 ns, recv_time: 1766108448816746993 ns, error: 2723 ns
-Scheduler latency: 73735 ns
-[1766108448.817746941] Destination receives msg, send_time: 1766108448817744249 ns, recv_time: 1766108448817746941 ns, error: 2692 ns
-Scheduler latency: 73778 ns
-[1766108448.818746988] Destination receives msg, send_time: 1766108448818744292 ns, recv_time: 1766108448818746988 ns, error: 2696 ns
-Scheduler latency: 75296 ns
-[1766108448.819748501] Destination receives msg, send_time: 1766108448819745810 ns, recv_time: 1766108448819748501 ns, error: 2691 ns
-Scheduler latency: 76718 ns
-[1766108448.820750047] Destination receives msg, send_time: 1766108448820747232 ns, recv_time: 1766108448820750047 ns, error: 2815 ns
-Scheduler latency: 74316 ns
-[1766108448.821747561] Destination receives msg, send_time: 1766108448821744830 ns, recv_time: 1766108448821747561 ns, error: 2731 ns
-Scheduler latency: 117993 ns
-[1766108448.822791436] Destination receives msg, send_time: 1766108448822788507 ns, recv_time: 1766108448822791436 ns, error: 2929 ns --Deadline misses--
-Scheduler latency: 117356 ns
-[1766108448.823790787] Destination receives msg, send_time: 1766108448823787870 ns, recv_time: 1766108448823790787 ns, error: 2917 ns --Deadline misses--
-Scheduler latency: 74066 ns
-[1766108448.824747319] Destination receives msg, send_time: 1766108448824744580 ns, recv_time: 1766108448824747319 ns, error: 2739 ns
-Scheduler latency: 74110 ns
-[1766108448.825747329] Destination receives msg, send_time: 1766108448825744624 ns, recv_time: 1766108448825747329 ns, error: 2705 ns
-Scheduler latency: 78788 ns
-[1766108448.826752014] Destination receives msg, send_time: 1766108448826749302 ns, recv_time: 1766108448826752014 ns, error: 2712 ns
-Scheduler latency: 116947 ns
-[1766108448.827790382] Destination receives msg, send_time: 1766108448827787461 ns, recv_time: 1766108448827790382 ns, error: 2921 ns --Deadline misses--
-Scheduler latency: 126279 ns
-[1766108448.828799717] Destination receives msg, send_time: 1766108448828796793 ns, recv_time: 1766108448828799717 ns, error: 2924 ns --Deadline misses--
-Scheduler latency: 74468 ns
-[1766108448.829747730] Destination receives msg, send_time: 1766108448829744982 ns, recv_time: 1766108448829747730 ns, error: 2748 ns
-Scheduler latency: 73718 ns
-[1766108448.830746960] Destination receives msg, send_time: 1766108448830744232 ns, recv_time: 1766108448830746960 ns, error: 2728 ns
-Scheduler latency: 74528 ns
-[1766108448.831747751] Destination receives msg, send_time: 1766108448831745042 ns, recv_time: 1766108448831747751 ns, error: 2709 ns
-Scheduler latency: 57022 ns
-[1766108448.832730328] Destination receives msg, send_time: 1766108448832727536 ns, recv_time: 1766108448832730328 ns, error: 2792 ns
-Scheduler latency: 73600 ns
-[1766108448.833746810] Destination receives msg, send_time: 1766108448833744114 ns, recv_time: 1766108448833746810 ns, error: 2696 ns
-Scheduler latency: 76252 ns
-[1766108448.834749453] Destination receives msg, send_time: 1766108448834746766 ns, recv_time: 1766108448834749453 ns, error: 2687 ns
-Scheduler latency: 76237 ns
-[1766108448.835754000] Destination receives msg, send_time: 1766108448835746751 ns, recv_time: 1766108448835754000 ns, error: 7249 ns
-Scheduler latency: 74824 ns
-[1766108448.836748028] Destination receives msg, send_time: 1766108448836745338 ns, recv_time: 1766108448836748028 ns, error: 2690 ns
-Scheduler latency: 74428 ns
-[1766108448.837747652] Destination receives msg, send_time: 1766108448837744942 ns, recv_time: 1766108448837747652 ns, error: 2710 ns
-Scheduler latency: 74213 ns
-[1766108448.838747423] Destination receives msg, send_time: 1766108448838744727 ns, recv_time: 1766108448838747423 ns, error: 2696 ns
-Scheduler latency: 73683 ns
-[1766108448.839746883] Destination receives msg, send_time: 1766108448839744197 ns, recv_time: 1766108448839746883 ns, error: 2686 ns
-Scheduler latency: 74549 ns
-[1766108448.840747766] Destination receives msg, send_time: 1766108448840745063 ns, recv_time: 1766108448840747766 ns, error: 2703 ns
-Scheduler latency: 77181 ns
-[1766108448.841750381] Destination receives msg, send_time: 1766108448841747695 ns, recv_time: 1766108448841750381 ns, error: 2686 ns
-Scheduler latency: 79245 ns
-[1766108448.842752445] Destination receives msg, send_time: 1766108448842749759 ns, recv_time: 1766108448842752445 ns, error: 2686 ns
-Scheduler latency: 73929 ns
-[1766108448.843747134] Destination receives msg, send_time: 1766108448843744443 ns, recv_time: 1766108448843747134 ns, error: 2691 ns
-Scheduler latency: 74142 ns
-[1766108448.844747339] Destination receives msg, send_time: 1766108448844744656 ns, recv_time: 1766108448844747339 ns, error: 2683 ns
-Scheduler latency: 74392 ns
-[1766108448.845747608] Destination receives msg, send_time: 1766108448845744906 ns, recv_time: 1766108448845747608 ns, error: 2702 ns
-Scheduler latency: 73765 ns
-[1766108448.846746969] Destination receives msg, send_time: 1766108448846744279 ns, recv_time: 1766108448846746969 ns, error: 2690 ns
-Scheduler latency: 74010 ns
-[1766108448.847747216] Destination receives msg, send_time: 1766108448847744524 ns, recv_time: 1766108448847747216 ns, error: 2692 ns
-Scheduler latency: 73889 ns
-[1766108448.848747090] Destination receives msg, send_time: 1766108448848744403 ns, recv_time: 1766108448848747090 ns, error: 2687 ns
-Scheduler latency: 74504 ns
-[1766108448.849747707] Destination receives msg, send_time: 1766108448849745018 ns, recv_time: 1766108448849747707 ns, error: 2689 ns
-Scheduler latency: 74255 ns
-[1766108448.850747460] Destination receives msg, send_time: 1766108448850744769 ns, recv_time: 1766108448850747460 ns, error: 2691 ns
-Scheduler latency: 73593 ns
-[1766108448.851746790] Destination receives msg, send_time: 1766108448851744107 ns, recv_time: 1766108448851746790 ns, error: 2683 ns
-Scheduler latency: 73829 ns
-[1766108448.852747034] Destination receives msg, send_time: 1766108448852744343 ns, recv_time: 1766108448852747034 ns, error: 2691 ns
-Scheduler latency: 74476 ns
-[1766108448.853747680] Destination receives msg, send_time: 1766108448853744990 ns, recv_time: 1766108448853747680 ns, error: 2690 ns
-Scheduler latency: 73789 ns
-[1766108448.854746998] Destination receives msg, send_time: 1766108448854744303 ns, recv_time: 1766108448854746998 ns, error: 2695 ns
-Scheduler latency: 73825 ns
-[1766108448.855747027] Destination receives msg, send_time: 1766108448855744339 ns, recv_time: 1766108448855747027 ns, error: 2688 ns
-Scheduler latency: 74735 ns
-[1766108448.856747934] Destination receives msg, send_time: 1766108448856745249 ns, recv_time: 1766108448856747934 ns, error: 2685 ns
-Scheduler latency: 86344 ns
-[1766108448.857759668] Destination receives msg, send_time: 1766108448857756858 ns, recv_time: 1766108448857759668 ns, error: 2810 ns
-Scheduler latency: 82114 ns
-[1766108448.858755623] Destination receives msg, send_time: 1766108448858752628 ns, recv_time: 1766108448858755623 ns, error: 2995 ns
-Scheduler latency: 78331 ns
-[1766108448.859751533] Destination receives msg, send_time: 1766108448859748845 ns, recv_time: 1766108448859751533 ns, error: 2688 ns
-Scheduler latency: 75224 ns
-[1766108448.860748424] Destination receives msg, send_time: 1766108448860745738 ns, recv_time: 1766108448860748424 ns, error: 2686 ns
-Scheduler latency: 78354 ns
-[1766108448.861751560] Destination receives msg, send_time: 1766108448861748868 ns, recv_time: 1766108448861751560 ns, error: 2692 ns
-Scheduler latency: 77606 ns
-[1766108448.862750819] Destination receives msg, send_time: 1766108448862748120 ns, recv_time: 1766108448862750819 ns, error: 2699 ns
-Scheduler latency: 79457 ns
-[1766108448.863752654] Destination receives msg, send_time: 1766108448863749971 ns, recv_time: 1766108448863752654 ns, error: 2683 ns
-Scheduler latency: 74379 ns
-[1766108448.864747589] Destination receives msg, send_time: 1766108448864744893 ns, recv_time: 1766108448864747589 ns, error: 2696 ns
-Scheduler latency: 75204 ns
-[1766108448.865748403] Destination receives msg, send_time: 1766108448865745718 ns, recv_time: 1766108448865748403 ns, error: 2685 ns
-Scheduler latency: 73908 ns
-[1766108448.866747114] Destination receives msg, send_time: 1766108448866744422 ns, recv_time: 1766108448866747114 ns, error: 2692 ns
-Scheduler latency: 76868 ns
-[1766108448.867750074] Destination receives msg, send_time: 1766108448867747382 ns, recv_time: 1766108448867750074 ns, error: 2692 ns
-Scheduler latency: 77067 ns
-[1766108448.868760990] Destination receives msg, send_time: 1766108448868747581 ns, recv_time: 1766108448868760990 ns, error: 13409 ns
-Scheduler latency: 74185 ns
-[1766108448.869747397] Destination receives msg, send_time: 1766108448869744699 ns, recv_time: 1766108448869747397 ns, error: 2698 ns
-Scheduler latency: 74954 ns
-[1766108448.870748155] Destination receives msg, send_time: 1766108448870745468 ns, recv_time: 1766108448870748155 ns, error: 2687 ns
-Scheduler latency: 74531 ns
-[1766108448.871747735] Destination receives msg, send_time: 1766108448871745045 ns, recv_time: 1766108448871747735 ns, error: 2690 ns
-Scheduler latency: 77438 ns
-[1766108448.872750640] Destination receives msg, send_time: 1766108448872747952 ns, recv_time: 1766108448872750640 ns, error: 2688 ns
-Scheduler latency: 74960 ns
-[1766108448.873748160] Destination receives msg, send_time: 1766108448873745474 ns, recv_time: 1766108448873748160 ns, error: 2686 ns
-Scheduler latency: 73906 ns
-[1766108448.874747109] Destination receives msg, send_time: 1766108448874744420 ns, recv_time: 1766108448874747109 ns, error: 2689 ns
-Scheduler latency: 74416 ns
-[1766108448.875747612] Destination receives msg, send_time: 1766108448875744930 ns, recv_time: 1766108448875747612 ns, error: 2682 ns
-Scheduler latency: 73569 ns
-[1766108448.876746775] Destination receives msg, send_time: 1766108448876744083 ns, recv_time: 1766108448876746775 ns, error: 2692 ns
-Scheduler latency: 75136 ns
-[1766108448.877748341] Destination receives msg, send_time: 1766108448877745650 ns, recv_time: 1766108448877748341 ns, error: 2691 ns
-Scheduler latency: 74999 ns
-[1766108448.878748207] Destination receives msg, send_time: 1766108448878745513 ns, recv_time: 1766108448878748207 ns, error: 2694 ns
-Scheduler latency: 73911 ns
-[1766108448.879747113] Destination receives msg, send_time: 1766108448879744425 ns, recv_time: 1766108448879747113 ns, error: 2688 ns
-Scheduler latency: 74194 ns
-[1766108448.880747393] Destination receives msg, send_time: 1766108448880744708 ns, recv_time: 1766108448880747393 ns, error: 2685 ns
-Scheduler latency: 74477 ns
-[1766108448.881747682] Destination receives msg, send_time: 1766108448881744991 ns, recv_time: 1766108448881747682 ns, error: 2691 ns
-Scheduler latency: 85092 ns
-[1766108448.882758296] Destination receives msg, send_time: 1766108448882755606 ns, recv_time: 1766108448882758296 ns, error: 2690 ns
-Scheduler latency: 101390 ns
-[1766108448.883775083] Destination receives msg, send_time: 1766108448883771904 ns, recv_time: 1766108448883775083 ns, error: 3179 ns --Deadline misses--
-Scheduler latency: 84543 ns
-[1766108448.884758054] Destination receives msg, send_time: 1766108448884755057 ns, recv_time: 1766108448884758054 ns, error: 2997 ns
-Scheduler latency: 75650 ns
-[1766108448.885748887] Destination receives msg, send_time: 1766108448885746164 ns, recv_time: 1766108448885748887 ns, error: 2723 ns
-Scheduler latency: 79529 ns
-[1766108448.886752789] Destination receives msg, send_time: 1766108448886750043 ns, recv_time: 1766108448886752789 ns, error: 2746 ns
-Scheduler latency: 76150 ns
-[1766108448.887749399] Destination receives msg, send_time: 1766108448887746664 ns, recv_time: 1766108448887749399 ns, error: 2735 ns
-Scheduler latency: 74056 ns
-[1766108448.888747264] Destination receives msg, send_time: 1766108448888744570 ns, recv_time: 1766108448888747264 ns, error: 2694 ns
-Scheduler latency: 78793 ns
-[1766108448.889751992] Destination receives msg, send_time: 1766108448889749307 ns, recv_time: 1766108448889751992 ns, error: 2685 ns
-Scheduler latency: 73832 ns
-[1766108448.890747038] Destination receives msg, send_time: 1766108448890744346 ns, recv_time: 1766108448890747038 ns, error: 2692 ns
-Scheduler latency: 74677 ns
-[1766108448.891747877] Destination receives msg, send_time: 1766108448891745191 ns, recv_time: 1766108448891747877 ns, error: 2686 ns
-Scheduler latency: 74312 ns
-[1766108448.892747511] Destination receives msg, send_time: 1766108448892744826 ns, recv_time: 1766108448892747511 ns, error: 2685 ns
-Scheduler latency: 74880 ns
-[1766108448.893748093] Destination receives msg, send_time: 1766108448893745394 ns, recv_time: 1766108448893748093 ns, error: 2699 ns
-Scheduler latency: 73791 ns
-[1766108448.894746992] Destination receives msg, send_time: 1766108448894744305 ns, recv_time: 1766108448894746992 ns, error: 2687 ns
-Scheduler latency: 79748 ns
-[1766108448.895753012] Destination receives msg, send_time: 1766108448895750262 ns, recv_time: 1766108448895753012 ns, error: 2750 ns
-Scheduler latency: 85825 ns
-[1766108448.896759059] Destination receives msg, send_time: 1766108448896756339 ns, recv_time: 1766108448896759059 ns, error: 2720 ns
-Scheduler latency: 76575 ns
-[1766108448.897749775] Destination receives msg, send_time: 1766108448897747089 ns, recv_time: 1766108448897749775 ns, error: 2686 ns
-Scheduler latency: 76922 ns
-[1766108448.898750124] Destination receives msg, send_time: 1766108448898747436 ns, recv_time: 1766108448898750124 ns, error: 2688 ns
-Scheduler latency: 74017 ns
-[1766108448.899747217] Destination receives msg, send_time: 1766108448899744531 ns, recv_time: 1766108448899747217 ns, error: 2686 ns
-Scheduler latency: 76131 ns
-[1766108448.900749337] Destination receives msg, send_time: 1766108448900746645 ns, recv_time: 1766108448900749337 ns, error: 2692 ns
-Scheduler latency: 74212 ns
-[1766108448.901747414] Destination receives msg, send_time: 1766108448901744726 ns, recv_time: 1766108448901747414 ns, error: 2688 ns
-Scheduler latency: 74931 ns
-[1766108448.902748139] Destination receives msg, send_time: 1766108448902745445 ns, recv_time: 1766108448902748139 ns, error: 2694 ns
-Scheduler latency: 74064 ns
-[1766108448.903747264] Destination receives msg, send_time: 1766108448903744578 ns, recv_time: 1766108448903747264 ns, error: 2686 ns
-Scheduler latency: 55562 ns
-[1766108448.904728874] Destination receives msg, send_time: 1766108448904726076 ns, recv_time: 1766108448904728874 ns, error: 2798 ns
-Scheduler latency: 74209 ns
-[1766108448.905747412] Destination receives msg, send_time: 1766108448905744723 ns, recv_time: 1766108448905747412 ns, error: 2689 ns
-Scheduler latency: 84279 ns
-[1766108448.906757479] Destination receives msg, send_time: 1766108448906754793 ns, recv_time: 1766108448906757479 ns, error: 2686 ns
-Scheduler latency: 78759 ns
-[1766108448.907751959] Destination receives msg, send_time: 1766108448907749273 ns, recv_time: 1766108448907751959 ns, error: 2686 ns
-Scheduler latency: 76373 ns
-[1766108448.908752726] Destination receives msg, send_time: 1766108448908746887 ns, recv_time: 1766108448908752726 ns, error: 5839 ns
-Scheduler latency: 74048 ns
-[1766108448.909747256] Destination receives msg, send_time: 1766108448909744562 ns, recv_time: 1766108448909747256 ns, error: 2694 ns
-Scheduler latency: 75078 ns
-[1766108448.910748280] Destination receives msg, send_time: 1766108448910745592 ns, recv_time: 1766108448910748280 ns, error: 2688 ns
-Scheduler latency: 74032 ns
-[1766108448.911747230] Destination receives msg, send_time: 1766108448911744546 ns, recv_time: 1766108448911747230 ns, error: 2684 ns
-Scheduler latency: 74614 ns
-[1766108448.912747843] Destination receives msg, send_time: 1766108448912745128 ns, recv_time: 1766108448912747843 ns, error: 2715 ns
-Scheduler latency: 73971 ns
-[1766108448.913747165] Destination receives msg, send_time: 1766108448913744485 ns, recv_time: 1766108448913747165 ns, error: 2680 ns
-Scheduler latency: 74684 ns
-[1766108448.914747887] Destination receives msg, send_time: 1766108448914745198 ns, recv_time: 1766108448914747887 ns, error: 2689 ns
-Scheduler latency: 74042 ns
-[1766108448.915747240] Destination receives msg, send_time: 1766108448915744556 ns, recv_time: 1766108448915747240 ns, error: 2684 ns
-Scheduler latency: 74505 ns
-[1766108448.916747733] Destination receives msg, send_time: 1766108448916745019 ns, recv_time: 1766108448916747733 ns, error: 2714 ns
-Scheduler latency: 74033 ns
-[1766108448.917747236] Destination receives msg, send_time: 1766108448917744547 ns, recv_time: 1766108448917747236 ns, error: 2689 ns
-Scheduler latency: 77986 ns
-[1766108448.918751186] Destination receives msg, send_time: 1766108448918748500 ns, recv_time: 1766108448918751186 ns, error: 2686 ns
-Scheduler latency: 74207 ns
-[1766108448.919747412] Destination receives msg, send_time: 1766108448919744721 ns, recv_time: 1766108448919747412 ns, error: 2691 ns
-Scheduler latency: 74088 ns
-[1766108448.920747285] Destination receives msg, send_time: 1766108448920744602 ns, recv_time: 1766108448920747285 ns, error: 2683 ns
-Scheduler latency: 74167 ns
-[1766108448.921747369] Destination receives msg, send_time: 1766108448921744681 ns, recv_time: 1766108448921747369 ns, error: 2688 ns
-Scheduler latency: 74682 ns
-[1766108448.922747883] Destination receives msg, send_time: 1766108448922745196 ns, recv_time: 1766108448922747883 ns, error: 2687 ns
-Scheduler latency: 81952 ns
-[1766108448.923755149] Destination receives msg, send_time: 1766108448923752466 ns, recv_time: 1766108448923755149 ns, error: 2683 ns
-Scheduler latency: 73729 ns
-[1766108448.924746933] Destination receives msg, send_time: 1766108448924744243 ns, recv_time: 1766108448924746933 ns, error: 2690 ns
-Scheduler latency: 73877 ns
-[1766108448.925747078] Destination receives msg, send_time: 1766108448925744391 ns, recv_time: 1766108448925747078 ns, error: 2687 ns
-Scheduler latency: 75191 ns
-[1766108448.926748397] Destination receives msg, send_time: 1766108448926745705 ns, recv_time: 1766108448926748397 ns, error: 2692 ns
-Scheduler latency: 73960 ns
-[1766108448.927747159] Destination receives msg, send_time: 1766108448927744474 ns, recv_time: 1766108448927747159 ns, error: 2685 ns
-Scheduler latency: 73913 ns
-[1766108448.928747113] Destination receives msg, send_time: 1766108448928744427 ns, recv_time: 1766108448928747113 ns, error: 2686 ns
-Scheduler latency: 74004 ns
-[1766108448.929747207] Destination receives msg, send_time: 1766108448929744518 ns, recv_time: 1766108448929747207 ns, error: 2689 ns
-Scheduler latency: 75742 ns
-[1766108448.930748937] Destination receives msg, send_time: 1766108448930746256 ns, recv_time: 1766108448930748937 ns, error: 2681 ns
-Scheduler latency: 73707 ns
-[1766108448.931746916] Destination receives msg, send_time: 1766108448931744221 ns, recv_time: 1766108448931746916 ns, error: 2695 ns
-Scheduler latency: 74187 ns
-[1766108448.932747385] Destination receives msg, send_time: 1766108448932744701 ns, recv_time: 1766108448932747385 ns, error: 2684 ns
-Scheduler latency: 79975 ns
-[1766108448.933753180] Destination receives msg, send_time: 1766108448933750489 ns, recv_time: 1766108448933753180 ns, error: 2691 ns
-Scheduler latency: 80523 ns
-[1766108448.934753779] Destination receives msg, send_time: 1766108448934751037 ns, recv_time: 1766108448934753779 ns, error: 2742 ns
-Scheduler latency: 77727 ns
-[1766108448.935750925] Destination receives msg, send_time: 1766108448935748241 ns, recv_time: 1766108448935750925 ns, error: 2684 ns
-Scheduler latency: 74122 ns
-[1766108448.936747327] Destination receives msg, send_time: 1766108448936744636 ns, recv_time: 1766108448936747327 ns, error: 2691 ns
-Scheduler latency: 74646 ns
-[1766108448.937747840] Destination receives msg, send_time: 1766108448937745160 ns, recv_time: 1766108448937747840 ns, error: 2680 ns
-Scheduler latency: 75728 ns
-[1766108448.938748932] Destination receives msg, send_time: 1766108448938746242 ns, recv_time: 1766108448938748932 ns, error: 2690 ns
-Scheduler latency: 74827 ns
-[1766108448.939748027] Destination receives msg, send_time: 1766108448939745341 ns, recv_time: 1766108448939748027 ns, error: 2686 ns
-Scheduler latency: 81375 ns
-[1766108448.940754571] Destination receives msg, send_time: 1766108448940751889 ns, recv_time: 1766108448940754571 ns, error: 2682 ns
-Scheduler latency: 74265 ns
-[1766108448.941747475] Destination receives msg, send_time: 1766108448941744779 ns, recv_time: 1766108448941747475 ns, error: 2696 ns
-Scheduler latency: 78237 ns
-[1766108448.942751437] Destination receives msg, send_time: 1766108448942748751 ns, recv_time: 1766108448942751437 ns, error: 2686 ns
-Scheduler latency: 74848 ns
-[1766108448.943748053] Destination receives msg, send_time: 1766108448943745362 ns, recv_time: 1766108448943748053 ns, error: 2691 ns
-Scheduler latency: 82655 ns
-[1766108448.944755950] Destination receives msg, send_time: 1766108448944753169 ns, recv_time: 1766108448944755950 ns, error: 2781 ns
-Scheduler latency: 74158 ns
-[1766108448.945747364] Destination receives msg, send_time: 1766108448945744672 ns, recv_time: 1766108448945747364 ns, error: 2692 ns
-Scheduler latency: 74494 ns
-[1766108448.946747709] Destination receives msg, send_time: 1766108448946745008 ns, recv_time: 1766108448946747709 ns, error: 2701 ns
-Scheduler latency: 74531 ns
-[1766108448.947747729] Destination receives msg, send_time: 1766108448947745045 ns, recv_time: 1766108448947747729 ns, error: 2684 ns
-Scheduler latency: 73691 ns
-[1766108448.948746894] Destination receives msg, send_time: 1766108448948744205 ns, recv_time: 1766108448948746894 ns, error: 2689 ns
-Scheduler latency: 74726 ns
-[1766108448.949747927] Destination receives msg, send_time: 1766108448949745240 ns, recv_time: 1766108448949747927 ns, error: 2687 ns
-Scheduler latency: 79942 ns
-[1766108448.950753149] Destination receives msg, send_time: 1766108448950750456 ns, recv_time: 1766108448950753149 ns, error: 2693 ns
-Scheduler latency: 74077 ns
-[1766108448.951747275] Destination receives msg, send_time: 1766108448951744591 ns, recv_time: 1766108448951747275 ns, error: 2684 ns
-Scheduler latency: 74195 ns
-[1766108448.952747396] Destination receives msg, send_time: 1766108448952744709 ns, recv_time: 1766108448952747396 ns, error: 2687 ns
-Scheduler latency: 73924 ns
-[1766108448.953747126] Destination receives msg, send_time: 1766108448953744438 ns, recv_time: 1766108448953747126 ns, error: 2688 ns
-Scheduler latency: 75277 ns
-[1766108448.954748473] Destination receives msg, send_time: 1766108448954745791 ns, recv_time: 1766108448954748473 ns, error: 2682 ns
-Scheduler latency: 73758 ns
-[1766108448.955746980] Destination receives msg, send_time: 1766108448955744272 ns, recv_time: 1766108448955746980 ns, error: 2708 ns
-Scheduler latency: 73877 ns
-[1766108448.956747118] Destination receives msg, send_time: 1766108448956744391 ns, recv_time: 1766108448956747118 ns, error: 2727 ns
-Scheduler latency: 73654 ns
-[1766108448.957746862] Destination receives msg, send_time: 1766108448957744168 ns, recv_time: 1766108448957746862 ns, error: 2694 ns
-Scheduler latency: 80904 ns
-[1766108448.958754115] Destination receives msg, send_time: 1766108448958751418 ns, recv_time: 1766108448958754115 ns, error: 2697 ns
-Scheduler latency: 73982 ns
-[1766108448.959747182] Destination receives msg, send_time: 1766108448959744496 ns, recv_time: 1766108448959747182 ns, error: 2686 ns
-Scheduler latency: 74442 ns
-[1766108448.960747659] Destination receives msg, send_time: 1766108448960744956 ns, recv_time: 1766108448960747659 ns, error: 2703 ns
-Scheduler latency: 73962 ns
-[1766108448.961747156] Destination receives msg, send_time: 1766108448961744476 ns, recv_time: 1766108448961747156 ns, error: 2680 ns
-Scheduler latency: 74604 ns
-[1766108448.962747809] Destination receives msg, send_time: 1766108448962745118 ns, recv_time: 1766108448962747809 ns, error: 2691 ns
-Scheduler latency: 73966 ns
-[1766108448.963747163] Destination receives msg, send_time: 1766108448963744480 ns, recv_time: 1766108448963747163 ns, error: 2683 ns
-Scheduler latency: 73766 ns
-[1766108448.964746969] Destination receives msg, send_time: 1766108448964744280 ns, recv_time: 1766108448964746969 ns, error: 2689 ns
-Scheduler latency: 74568 ns
-[1766108448.965747775] Destination receives msg, send_time: 1766108448965745082 ns, recv_time: 1766108448965747775 ns, error: 2693 ns
-Scheduler latency: 74690 ns
-[1766108448.966747890] Destination receives msg, send_time: 1766108448966745204 ns, recv_time: 1766108448966747890 ns, error: 2686 ns
-Scheduler latency: 73781 ns
-[1766108448.967746986] Destination receives msg, send_time: 1766108448967744295 ns, recv_time: 1766108448967746986 ns, error: 2691 ns
-Scheduler latency: 77965 ns
-[1766108448.968751163] Destination receives msg, send_time: 1766108448968748479 ns, recv_time: 1766108448968751163 ns, error: 2684 ns
-Scheduler latency: 73795 ns
-[1766108448.969747013] Destination receives msg, send_time: 1766108448969744309 ns, recv_time: 1766108448969747013 ns, error: 2704 ns
-Scheduler latency: 75264 ns
-[1766108448.970748464] Destination receives msg, send_time: 1766108448970745778 ns, recv_time: 1766108448970748464 ns, error: 2686 ns
-Scheduler latency: 74401 ns
-[1766108448.971747719] Destination receives msg, send_time: 1766108448971744915 ns, recv_time: 1766108448971747719 ns, error: 2804 ns
-Scheduler latency: 84261 ns
-[1766108448.972757462] Destination receives msg, send_time: 1766108448972754775 ns, recv_time: 1766108448972757462 ns, error: 2687 ns
-Scheduler latency: 74024 ns
-[1766108448.973747225] Destination receives msg, send_time: 1766108448973744538 ns, recv_time: 1766108448973747225 ns, error: 2687 ns
-Scheduler latency: 81511 ns
-[1766108448.974754714] Destination receives msg, send_time: 1766108448974752025 ns, recv_time: 1766108448974754714 ns, error: 2689 ns
-Scheduler latency: 80537 ns
-[1766108448.975753741] Destination receives msg, send_time: 1766108448975751051 ns, recv_time: 1766108448975753741 ns, error: 2690 ns
-Scheduler latency: 76917 ns
-[1766108448.976750117] Destination receives msg, send_time: 1766108448976747431 ns, recv_time: 1766108448976750117 ns, error: 2686 ns
-Scheduler latency: 76388 ns
-[1766108448.977749592] Destination receives msg, send_time: 1766108448977746902 ns, recv_time: 1766108448977749592 ns, error: 2690 ns
-Scheduler latency: 76763 ns
-[1766108448.978749956] Destination receives msg, send_time: 1766108448978747277 ns, recv_time: 1766108448978749956 ns, error: 2679 ns
-Scheduler latency: 83044 ns
-[1766108448.979756245] Destination receives msg, send_time: 1766108448979753558 ns, recv_time: 1766108448979756245 ns, error: 2687 ns
-Scheduler latency: 78687 ns
-[1766108448.980751887] Destination receives msg, send_time: 1766108448980749201 ns, recv_time: 1766108448980751887 ns, error: 2686 ns
-Scheduler latency: 79346 ns
-[1766108448.981754414] Destination receives msg, send_time: 1766108448981749860 ns, recv_time: 1766108448981754414 ns, error: 4554 ns
-Scheduler latency: 73907 ns
-[1766108448.982747129] Destination receives msg, send_time: 1766108448982744421 ns, recv_time: 1766108448982747129 ns, error: 2708 ns
-Scheduler latency: 74105 ns
-[1766108448.983747305] Destination receives msg, send_time: 1766108448983744619 ns, recv_time: 1766108448983747305 ns, error: 2686 ns
-Scheduler latency: 78775 ns
-[1766108448.984751980] Destination receives msg, send_time: 1766108448984749289 ns, recv_time: 1766108448984751980 ns, error: 2691 ns
-Scheduler latency: 79148 ns
-[1766108448.985752350] Destination receives msg, send_time: 1766108448985749662 ns, recv_time: 1766108448985752350 ns, error: 2688 ns
-Scheduler latency: 79046 ns
-[1766108448.986752244] Destination receives msg, send_time: 1766108448986749560 ns, recv_time: 1766108448986752244 ns, error: 2684 ns
-Scheduler latency: 75979 ns
-[1766108448.987749209] Destination receives msg, send_time: 1766108448987746493 ns, recv_time: 1766108448987749209 ns, error: 2716 ns
-Scheduler latency: 78678 ns
-[1766108448.988751890] Destination receives msg, send_time: 1766108448988749192 ns, recv_time: 1766108448988751890 ns, error: 2698 ns
-Scheduler latency: 75601 ns
-[1766108448.989748804] Destination receives msg, send_time: 1766108448989746115 ns, recv_time: 1766108448989748804 ns, error: 2689 ns
-Scheduler latency: 73965 ns
-[1766108448.990747168] Destination receives msg, send_time: 1766108448990744479 ns, recv_time: 1766108448990747168 ns, error: 2689 ns
-Scheduler latency: 75319 ns
-[1766108448.991748525] Destination receives msg, send_time: 1766108448991745833 ns, recv_time: 1766108448991748525 ns, error: 2692 ns
-Scheduler latency: 77287 ns
-[1766108448.992750484] Destination receives msg, send_time: 1766108448992747801 ns, recv_time: 1766108448992750484 ns, error: 2683 ns
-Scheduler latency: 75277 ns
-[1766108448.993748480] Destination receives msg, send_time: 1766108448993745791 ns, recv_time: 1766108448993748480 ns, error: 2689 ns
-Scheduler latency: 74001 ns
-[1766108448.994747247] Destination receives msg, send_time: 1766108448994744515 ns, recv_time: 1766108448994747247 ns, error: 2732 ns
-Scheduler latency: 74480 ns
-[1766108448.995747680] Destination receives msg, send_time: 1766108448995744994 ns, recv_time: 1766108448995747680 ns, error: 2686 ns
-Scheduler latency: 73812 ns
-[1766108448.996747013] Destination receives msg, send_time: 1766108448996744326 ns, recv_time: 1766108448996747013 ns, error: 2687 ns
-Scheduler latency: 75096 ns
-[1766108448.997748318] Destination receives msg, send_time: 1766108448997745610 ns, recv_time: 1766108448997748318 ns, error: 2708 ns
-Scheduler latency: 73851 ns
-[1766108448.998747057] Destination receives msg, send_time: 1766108448998744365 ns, recv_time: 1766108448998747057 ns, error: 2692 ns
-Scheduler latency: 74154 ns
-[1766108448.999747350] Destination receives msg, send_time: 1766108448999744668 ns, recv_time: 1766108448999747350 ns, error: 2682 ns
-Scheduler latency: 73676 ns
-[1766108449.000746914] Destination receives msg, send_time: 1766108449000744190 ns, recv_time: 1766108449000746914 ns, error: 2724 ns
-Scheduler latency: 74926 ns
-[1766108449.001748155] Destination receives msg, send_time: 1766108449001745440 ns, recv_time: 1766108449001748155 ns, error: 2715 ns
-Scheduler latency: 78013 ns
-[1766108449.002751206] Destination receives msg, send_time: 1766108449002748527 ns, recv_time: 1766108449002751206 ns, error: 2679 ns
-Scheduler latency: 75057 ns
-[1766108449.003748261] Destination receives msg, send_time: 1766108449003745571 ns, recv_time: 1766108449003748261 ns, error: 2690 ns
-Scheduler latency: 83735 ns
-[1766108449.004756937] Destination receives msg, send_time: 1766108449004754249 ns, recv_time: 1766108449004756937 ns, error: 2688 ns
-Scheduler latency: 77799 ns
-[1766108449.005751000] Destination receives msg, send_time: 1766108449005748313 ns, recv_time: 1766108449005751000 ns, error: 2687 ns
-Scheduler latency: 74497 ns
-[1766108449.006747696] Destination receives msg, send_time: 1766108449006745011 ns, recv_time: 1766108449006747696 ns, error: 2685 ns
-Scheduler latency: 76904 ns
-[1766108449.007750102] Destination receives msg, send_time: 1766108449007747418 ns, recv_time: 1766108449007750102 ns, error: 2684 ns
-Scheduler latency: 81924 ns
-[1766108449.008755219] Destination receives msg, send_time: 1766108449008752438 ns, recv_time: 1766108449008755219 ns, error: 2781 ns
-Scheduler latency: 74423 ns
-[1766108449.009747619] Destination receives msg, send_time: 1766108449009744937 ns, recv_time: 1766108449009747619 ns, error: 2682 ns
-Scheduler latency: 83453 ns
-[1766108449.010756652] Destination receives msg, send_time: 1766108449010753967 ns, recv_time: 1766108449010756652 ns, error: 2685 ns
-Scheduler latency: 73779 ns
-[1766108449.011746976] Destination receives msg, send_time: 1766108449011744293 ns, recv_time: 1766108449011746976 ns, error: 2683 ns
-Scheduler latency: 73741 ns
-[1766108449.012746944] Destination receives msg, send_time: 1766108449012744255 ns, recv_time: 1766108449012746944 ns, error: 2689 ns
-Scheduler latency: 79581 ns
-[1766108449.013752793] Destination receives msg, send_time: 1766108449013750095 ns, recv_time: 1766108449013752793 ns, error: 2698 ns
-Scheduler latency: 83912 ns
-[1766108449.014757113] Destination receives msg, send_time: 1766108449014754426 ns, recv_time: 1766108449014757113 ns, error: 2687 ns
-Scheduler latency: 74204 ns
-[1766108449.015747408] Destination receives msg, send_time: 1766108449015744718 ns, recv_time: 1766108449015747408 ns, error: 2690 ns
-Scheduler latency: 73870 ns
-[1766108449.016747064] Destination receives msg, send_time: 1766108449016744384 ns, recv_time: 1766108449016747064 ns, error: 2680 ns
-Scheduler latency: 75477 ns
-[1766108449.017748681] Destination receives msg, send_time: 1766108449017745991 ns, recv_time: 1766108449017748681 ns, error: 2690 ns
-Scheduler latency: 76968 ns
-[1766108449.018750168] Destination receives msg, send_time: 1766108449018747482 ns, recv_time: 1766108449018750168 ns, error: 2686 ns
-Scheduler latency: 78406 ns
-[1766108449.019751603] Destination receives msg, send_time: 1766108449019748920 ns, recv_time: 1766108449019751603 ns, error: 2683 ns
-Scheduler latency: 79571 ns
-[1766108449.020752870] Destination receives msg, send_time: 1766108449020750085 ns, recv_time: 1766108449020752870 ns, error: 2785 ns
-Scheduler latency: 74587 ns
-[1766108449.021747789] Destination receives msg, send_time: 1766108449021745101 ns, recv_time: 1766108449021747789 ns, error: 2688 ns
-Scheduler latency: 73881 ns
-[1766108449.022747091] Destination receives msg, send_time: 1766108449022744395 ns, recv_time: 1766108449022747091 ns, error: 2696 ns
-Scheduler latency: 73731 ns
-[1766108449.023746927] Destination receives msg, send_time: 1766108449023744245 ns, recv_time: 1766108449023746927 ns, error: 2682 ns
-Scheduler latency: 73960 ns
-[1766108449.024747163] Destination receives msg, send_time: 1766108449024744474 ns, recv_time: 1766108449024747163 ns, error: 2689 ns
-Scheduler latency: 75381 ns
-[1766108449.025748581] Destination receives msg, send_time: 1766108449025745895 ns, recv_time: 1766108449025748581 ns, error: 2686 ns
-Scheduler latency: 81868 ns
-[1766108449.026755065] Destination receives msg, send_time: 1766108449026752382 ns, recv_time: 1766108449026755065 ns, error: 2683 ns
-Scheduler latency: 75930 ns
-[1766108449.027749134] Destination receives msg, send_time: 1766108449027746444 ns, recv_time: 1766108449027749134 ns, error: 2690 ns
-Scheduler latency: 76187 ns
-[1766108449.028764793] Destination receives msg, send_time: 1766108449028746701 ns, recv_time: 1766108449028764793 ns, error: 18092 ns
-Scheduler latency: 78019 ns
-[1766108449.029751221] Destination receives msg, send_time: 1766108449029748533 ns, recv_time: 1766108449029751221 ns, error: 2688 ns
-Scheduler latency: 80322 ns
-[1766108449.030753522] Destination receives msg, send_time: 1766108449030750836 ns, recv_time: 1766108449030753522 ns, error: 2686 ns
-Scheduler latency: 80125 ns
-[1766108449.031753320] Destination receives msg, send_time: 1766108449031750639 ns, recv_time: 1766108449031753320 ns, error: 2681 ns
-Scheduler latency: 74878 ns
-[1766108449.032748082] Destination receives msg, send_time: 1766108449032745392 ns, recv_time: 1766108449032748082 ns, error: 2690 ns
-Scheduler latency: 76459 ns
-[1766108449.033749651] Destination receives msg, send_time: 1766108449033746973 ns, recv_time: 1766108449033749651 ns, error: 2678 ns
-Scheduler latency: 74536 ns
-[1766108449.034747740] Destination receives msg, send_time: 1766108449034745050 ns, recv_time: 1766108449034747740 ns, error: 2690 ns
-Scheduler latency: 74412 ns
-[1766108449.035747608] Destination receives msg, send_time: 1766108449035744926 ns, recv_time: 1766108449035747608 ns, error: 2682 ns
-Scheduler latency: 86318 ns
-[1766108449.036759513] Destination receives msg, send_time: 1766108449036756832 ns, recv_time: 1766108449036759513 ns, error: 2681 ns
-Scheduler latency: 74827 ns
-[1766108449.037748033] Destination receives msg, send_time: 1766108449037745341 ns, recv_time: 1766108449037748033 ns, error: 2692 ns
-Scheduler latency: 74832 ns
-[1766108449.038748065] Destination receives msg, send_time: 1766108449038745346 ns, recv_time: 1766108449038748065 ns, error: 2719 ns
-Scheduler latency: 73752 ns
-[1766108449.039746955] Destination receives msg, send_time: 1766108449039744266 ns, recv_time: 1766108449039746955 ns, error: 2689 ns
-Scheduler latency: 82305 ns
-[1766108449.040755505] Destination receives msg, send_time: 1766108449040752819 ns, recv_time: 1766108449040755505 ns, error: 2686 ns
-Scheduler latency: 79997 ns
-[1766108449.041753197] Destination receives msg, send_time: 1766108449041750511 ns, recv_time: 1766108449041753197 ns, error: 2686 ns
-Scheduler latency: 80232 ns
-[1766108449.042753437] Destination receives msg, send_time: 1766108449042750746 ns, recv_time: 1766108449042753437 ns, error: 2691 ns
-Scheduler latency: 75557 ns
-[1766108449.043748757] Destination receives msg, send_time: 1766108449043746071 ns, recv_time: 1766108449043748757 ns, error: 2686 ns
-Scheduler latency: 78466 ns
-[1766108449.044751670] Destination receives msg, send_time: 1766108449044748980 ns, recv_time: 1766108449044751670 ns, error: 2690 ns
-Scheduler latency: 78148 ns
-[1766108449.045751348] Destination receives msg, send_time: 1766108449045748662 ns, recv_time: 1766108449045751348 ns, error: 2686 ns
-Scheduler latency: 74356 ns
-[1766108449.046747611] Destination receives msg, send_time: 1766108449046744870 ns, recv_time: 1766108449046747611 ns, error: 2741 ns
-Scheduler latency: 73961 ns
-[1766108449.047747156] Destination receives msg, send_time: 1766108449047744475 ns, recv_time: 1766108449047747156 ns, error: 2681 ns
-Scheduler latency: 81530 ns
-[1766108449.048754727] Destination receives msg, send_time: 1766108449048752044 ns, recv_time: 1766108449048754727 ns, error: 2683 ns
-Scheduler latency: 74681 ns
-[1766108449.049747882] Destination receives msg, send_time: 1766108449049745195 ns, recv_time: 1766108449049747882 ns, error: 2687 ns
-Scheduler latency: 73733 ns
-[1766108449.050746931] Destination receives msg, send_time: 1766108449050744247 ns, recv_time: 1766108449050746931 ns, error: 2684 ns
-Scheduler latency: 74045 ns
-[1766108449.051747248] Destination receives msg, send_time: 1766108449051744559 ns, recv_time: 1766108449051747248 ns, error: 2689 ns
-Scheduler latency: 84928 ns
-[1766108449.052758128] Destination receives msg, send_time: 1766108449052755442 ns, recv_time: 1766108449052758128 ns, error: 2686 ns
-Scheduler latency: 74853 ns
-[1766108449.053748065] Destination receives msg, send_time: 1766108449053745367 ns, recv_time: 1766108449053748065 ns, error: 2698 ns
-Scheduler latency: 80698 ns
-[1766108449.054753916] Destination receives msg, send_time: 1766108449054751212 ns, recv_time: 1766108449054753916 ns, error: 2704 ns
-Scheduler latency: 73747 ns
-[1766108449.055746947] Destination receives msg, send_time: 1766108449055744261 ns, recv_time: 1766108449055746947 ns, error: 2686 ns
-Scheduler latency: 74275 ns
-[1766108449.056747478] Destination receives msg, send_time: 1766108449056744789 ns, recv_time: 1766108449056747478 ns, error: 2689 ns
-Scheduler latency: 74738 ns
-[1766108449.057747936] Destination receives msg, send_time: 1766108449057745252 ns, recv_time: 1766108449057747936 ns, error: 2684 ns
-Scheduler latency: 80288 ns
-[1766108449.058753751] Destination receives msg, send_time: 1766108449058750802 ns, recv_time: 1766108449058753751 ns, error: 2949 ns
-Scheduler latency: 75656 ns
-[1766108449.059748863] Destination receives msg, send_time: 1766108449059746170 ns, recv_time: 1766108449059748863 ns, error: 2693 ns
-Scheduler latency: 73768 ns
-[1766108449.060746973] Destination receives msg, send_time: 1766108449060744282 ns, recv_time: 1766108449060746973 ns, error: 2691 ns
-Scheduler latency: 77816 ns
-[1766108449.061751058] Destination receives msg, send_time: 1766108449061748330 ns, recv_time: 1766108449061751058 ns, error: 2728 ns
-Scheduler latency: 74831 ns
-[1766108449.062748034] Destination receives msg, send_time: 1766108449062745345 ns, recv_time: 1766108449062748034 ns, error: 2689 ns
-Scheduler latency: 75582 ns
-[1766108449.063748784] Destination receives msg, send_time: 1766108449063746096 ns, recv_time: 1766108449063748784 ns, error: 2688 ns
-Scheduler latency: 81522 ns
-[1766108449.064754719] Destination receives msg, send_time: 1766108449064752036 ns, recv_time: 1766108449064754719 ns, error: 2683 ns
-Scheduler latency: 74105 ns
-[1766108449.065747308] Destination receives msg, send_time: 1766108449065744619 ns, recv_time: 1766108449065747308 ns, error: 2689 ns
-Scheduler latency: 74145 ns
-[1766108449.066747344] Destination receives msg, send_time: 1766108449066744659 ns, recv_time: 1766108449066747344 ns, error: 2685 ns
-Scheduler latency: 74666 ns
-[1766108449.067747866] Destination receives msg, send_time: 1766108449067745180 ns, recv_time: 1766108449067747866 ns, error: 2686 ns
-Scheduler latency: 74015 ns
-[1766108449.068747213] Destination receives msg, send_time: 1766108449068744529 ns, recv_time: 1766108449068747213 ns, error: 2684 ns
-Scheduler latency: 73669 ns
-[1766108449.069746875] Destination receives msg, send_time: 1766108449069744183 ns, recv_time: 1766108449069746875 ns, error: 2692 ns
-Scheduler latency: 80627 ns
-[1766108449.070753844] Destination receives msg, send_time: 1766108449070751141 ns, recv_time: 1766108449070753844 ns, error: 2703 ns
-Scheduler latency: 79684 ns
-[1766108449.071752882] Destination receives msg, send_time: 1766108449071750198 ns, recv_time: 1766108449071752882 ns, error: 2684 ns
-Scheduler latency: 74319 ns
-[1766108449.072747524] Destination receives msg, send_time: 1766108449072744833 ns, recv_time: 1766108449072747524 ns, error: 2691 ns
-Scheduler latency: 76502 ns
-[1766108449.073749703] Destination receives msg, send_time: 1766108449073747016 ns, recv_time: 1766108449073749703 ns, error: 2687 ns
-Scheduler latency: 77142 ns
-[1766108449.074750341] Destination receives msg, send_time: 1766108449074747656 ns, recv_time: 1766108449074750341 ns, error: 2685 ns
-Scheduler latency: 77684 ns
-[1766108449.075750888] Destination receives msg, send_time: 1766108449075748198 ns, recv_time: 1766108449075750888 ns, error: 2690 ns
-Scheduler latency: 77393 ns
-[1766108449.076750589] Destination receives msg, send_time: 1766108449076747907 ns, recv_time: 1766108449076750589 ns, error: 2682 ns
-Scheduler latency: 75287 ns
-[1766108449.077748509] Destination receives msg, send_time: 1766108449077745801 ns, recv_time: 1766108449077748509 ns, error: 2708 ns
-Scheduler latency: 74163 ns
-[1766108449.078747364] Destination receives msg, send_time: 1766108449078744677 ns, recv_time: 1766108449078747364 ns, error: 2687 ns
-Scheduler latency: 74680 ns
-[1766108449.079747880] Destination receives msg, send_time: 1766108449079745194 ns, recv_time: 1766108449079747880 ns, error: 2686 ns
-Scheduler latency: 74006 ns
-[1766108449.080747207] Destination receives msg, send_time: 1766108449080744520 ns, recv_time: 1766108449080747207 ns, error: 2687 ns
-Scheduler latency: 73824 ns
-[1766108449.081747024] Destination receives msg, send_time: 1766108449081744338 ns, recv_time: 1766108449081747024 ns, error: 2686 ns
-Scheduler latency: 73835 ns
-[1766108449.082747039] Destination receives msg, send_time: 1766108449082744349 ns, recv_time: 1766108449082747039 ns, error: 2690 ns
-Scheduler latency: 74550 ns
-[1766108449.083747746] Destination receives msg, send_time: 1766108449083745064 ns, recv_time: 1766108449083747746 ns, error: 2682 ns
-Scheduler latency: 75443 ns
-[1766108449.084748645] Destination receives msg, send_time: 1766108449084745957 ns, recv_time: 1766108449084748645 ns, error: 2688 ns
-Scheduler latency: 74362 ns
-[1766108449.085747566] Destination receives msg, send_time: 1766108449085744876 ns, recv_time: 1766108449085747566 ns, error: 2690 ns
-Scheduler latency: 80311 ns
-[1766108449.086753523] Destination receives msg, send_time: 1766108449086750825 ns, recv_time: 1766108449086753523 ns, error: 2698 ns
-Scheduler latency: 74600 ns
-[1766108449.087747802] Destination receives msg, send_time: 1766108449087745114 ns, recv_time: 1766108449087747802 ns, error: 2688 ns
-Scheduler latency: 74112 ns
-[1766108449.088747308] Destination receives msg, send_time: 1766108449088744626 ns, recv_time: 1766108449088747308 ns, error: 2682 ns
-Scheduler latency: 74059 ns
-[1766108449.089747264] Destination receives msg, send_time: 1766108449089744573 ns, recv_time: 1766108449089747264 ns, error: 2691 ns
-Scheduler latency: 73915 ns
-[1766108449.090747113] Destination receives msg, send_time: 1766108449090744429 ns, recv_time: 1766108449090747113 ns, error: 2684 ns
-Scheduler latency: 74608 ns
-[1766108449.091747809] Destination receives msg, send_time: 1766108449091745122 ns, recv_time: 1766108449091747809 ns, error: 2687 ns
-Scheduler latency: 73894 ns
-[1766108449.092747094] Destination receives msg, send_time: 1766108449092744408 ns, recv_time: 1766108449092747094 ns, error: 2686 ns
-Scheduler latency: 74247 ns
-[1766108449.093747454] Destination receives msg, send_time: 1766108449093744761 ns, recv_time: 1766108449093747454 ns, error: 2693 ns
-Scheduler latency: 79015 ns
-[1766108449.094752224] Destination receives msg, send_time: 1766108449094749529 ns, recv_time: 1766108449094752224 ns, error: 2695 ns
-Scheduler latency: 75338 ns
-[1766108449.095748533] Destination receives msg, send_time: 1766108449095745852 ns, recv_time: 1766108449095748533 ns, error: 2681 ns
-Scheduler latency: 74245 ns
-[1766108449.096747447] Destination receives msg, send_time: 1766108449096744759 ns, recv_time: 1766108449096747447 ns, error: 2688 ns
-Scheduler latency: 74909 ns
-[1766108449.097748106] Destination receives msg, send_time: 1766108449097745423 ns, recv_time: 1766108449097748106 ns, error: 2683 ns
-Scheduler latency: 74010 ns
-[1766108449.098747225] Destination receives msg, send_time: 1766108449098744524 ns, recv_time: 1766108449098747225 ns, error: 2701 ns
-Scheduler latency: 74604 ns
-[1766108449.099747806] Destination receives msg, send_time: 1766108449099745118 ns, recv_time: 1766108449099747806 ns, error: 2688 ns
-Scheduler latency: 73916 ns
-[1766108449.100747113] Destination receives msg, send_time: 1766108449100744430 ns, recv_time: 1766108449100747113 ns, error: 2683 ns
-Scheduler latency: 78839 ns
-[1766108449.101752045] Destination receives msg, send_time: 1766108449101749353 ns, recv_time: 1766108449101752045 ns, error: 2692 ns
-Scheduler latency: 73842 ns
-[1766108449.102747042] Destination receives msg, send_time: 1766108449102744356 ns, recv_time: 1766108449102747042 ns, error: 2686 ns
-Scheduler latency: 75111 ns
-[1766108449.103748312] Destination receives msg, send_time: 1766108449103745625 ns, recv_time: 1766108449103748312 ns, error: 2687 ns
-Scheduler latency: 135743 ns
-[1766108449.104809282] Destination receives msg, send_time: 1766108449104806257 ns, recv_time: 1766108449104809282 ns, error: 3025 ns --Deadline misses--
-Scheduler latency: 76595 ns
-[1766108449.105749844] Destination receives msg, send_time: 1766108449105747109 ns, recv_time: 1766108449105749844 ns, error: 2735 ns
-Scheduler latency: 74884 ns
-[1766108449.106748107] Destination receives msg, send_time: 1766108449106745398 ns, recv_time: 1766108449106748107 ns, error: 2709 ns
-Scheduler latency: 73918 ns
-[1766108449.107747134] Destination receives msg, send_time: 1766108449107744432 ns, recv_time: 1766108449107747134 ns, error: 2702 ns
+---- Start execution on Thu Dec 25 11:30:30 2025 ---- plus 670563294 nanoseconds
+Scheduler latency: 46742 ns
+[1766629830.670615610] Destination receives msg, send_time: 1766629830670610036 ns, recv_time: 1766629830670615610 ns, error: 5574 ns
+Scheduler latency: 60660 ns
+[1766629830.671628343] Destination receives msg, send_time: 1766629830671623954 ns, recv_time: 1766629830671628343 ns, error: 4389 ns --Deadline misses--
+Scheduler latency: 53115 ns
+[1766629830.672620760] Destination receives msg, send_time: 1766629830672616409 ns, recv_time: 1766629830672620760 ns, error: 4351 ns
+Scheduler latency: 19532 ns
+[1766629830.673586808] Destination receives msg, send_time: 1766629830673582826 ns, recv_time: 1766629830673586808 ns, error: 3982 ns
+Scheduler latency: 54154 ns
+[1766629830.674621837] Destination receives msg, send_time: 1766629830674617448 ns, recv_time: 1766629830674621837 ns, error: 4389 ns
+Scheduler latency: 52664 ns
+[1766629830.675620403] Destination receives msg, send_time: 1766629830675615958 ns, recv_time: 1766629830675620403 ns, error: 4445 ns
+Scheduler latency: 52638 ns
+[1766629830.676620247] Destination receives msg, send_time: 1766629830676615932 ns, recv_time: 1766629830676620247 ns, error: 4315 ns
+Scheduler latency: 7944 ns
+[1766629830.677575571] Destination receives msg, send_time: 1766629830677571238 ns, recv_time: 1766629830677575571 ns, error: 4333 ns
+Scheduler latency: 52862 ns
+[1766629830.678620138] Destination receives msg, send_time: 1766629830678616156 ns, recv_time: 1766629830678620138 ns, error: 3982 ns
+Scheduler latency: 52873 ns
+[1766629830.679620352] Destination receives msg, send_time: 1766629830679616167 ns, recv_time: 1766629830679620352 ns, error: 4185 ns
+Scheduler latency: 52606 ns
+[1766629830.680620159] Destination receives msg, send_time: 1766629830680615900 ns, recv_time: 1766629830680620159 ns, error: 4259 ns
+Scheduler latency: 17134 ns
+[1766629830.681584539] Destination receives msg, send_time: 1766629830681580428 ns, recv_time: 1766629830681584539 ns, error: 4111 ns
+Scheduler latency: 53071 ns
+[1766629830.682620661] Destination receives msg, send_time: 1766629830682616365 ns, recv_time: 1766629830682620661 ns, error: 4296 ns
+Scheduler latency: 52711 ns
+[1766629830.683620431] Destination receives msg, send_time: 1766629830683616005 ns, recv_time: 1766629830683620431 ns, error: 4426 ns
+Scheduler latency: 832433 ns
+[1766629830.685400968] Destination receives msg, send_time: 1766629830685395727 ns, recv_time: 1766629830685400968 ns, error: 5241 ns --Deadline misses--
+Scheduler latency: 27324 ns
+[1766629830.685595081] Destination receives msg, send_time: 1766629830685590618 ns, recv_time: 1766629830685595081 ns, error: 4463 ns
+Scheduler latency: 53298 ns
+[1766629830.686621036] Destination receives msg, send_time: 1766629830686616592 ns, recv_time: 1766629830686621036 ns, error: 4444 ns
+Scheduler latency: 52716 ns
+[1766629830.687620269] Destination receives msg, send_time: 1766629830687616010 ns, recv_time: 1766629830687620269 ns, error: 4259 ns
+Scheduler latency: 53615 ns
+[1766629830.688621335] Destination receives msg, send_time: 1766629830688616909 ns, recv_time: 1766629830688621335 ns, error: 4426 ns
+Scheduler latency: 10755 ns
+[1766629830.689578030] Destination receives msg, send_time: 1766629830689574049 ns, recv_time: 1766629830689578030 ns, error: 3981 ns
+Scheduler latency: 52895 ns
+[1766629830.690620726] Destination receives msg, send_time: 1766629830690616189 ns, recv_time: 1766629830690620726 ns, error: 4537 ns
+Scheduler latency: 52702 ns
+[1766629830.691620274] Destination receives msg, send_time: 1766629830691615996 ns, recv_time: 1766629830691620274 ns, error: 4278 ns
+Scheduler latency: 52675 ns
+[1766629830.692620006] Destination receives msg, send_time: 1766629830692615969 ns, recv_time: 1766629830692620006 ns, error: 4037 ns
+Scheduler latency: 13519 ns
+[1766629830.693580850] Destination receives msg, send_time: 1766629830693576813 ns, recv_time: 1766629830693580850 ns, error: 4037 ns
+Scheduler latency: 53141 ns
+[1766629830.694620676] Destination receives msg, send_time: 1766629830694616435 ns, recv_time: 1766629830694620676 ns, error: 4241 ns
+Scheduler latency: 53114 ns
+[1766629830.695620853] Destination receives msg, send_time: 1766629830695616408 ns, recv_time: 1766629830695620853 ns, error: 4445 ns
+Scheduler latency: 55458 ns
+[1766629830.696622752] Destination receives msg, send_time: 1766629830696618752 ns, recv_time: 1766629830696622752 ns, error: 4000 ns
+Scheduler latency: 22875 ns
+[1766629830.697590484] Destination receives msg, send_time: 1766629830697586169 ns, recv_time: 1766629830697590484 ns, error: 4315 ns
+Scheduler latency: 53071 ns
+[1766629830.698620736] Destination receives msg, send_time: 1766629830698616365 ns, recv_time: 1766629830698620736 ns, error: 4371 ns
+Scheduler latency: 52378 ns
+[1766629830.699619635] Destination receives msg, send_time: 1766629830699615672 ns, recv_time: 1766629830699619635 ns, error: 3963 ns
+Scheduler latency: 52685 ns
+[1766629830.700619942] Destination receives msg, send_time: 1766629830700615979 ns, recv_time: 1766629830700619942 ns, error: 3963 ns
+Scheduler latency: 7547 ns
+[1766629830.701574859] Destination receives msg, send_time: 1766629830701570841 ns, recv_time: 1766629830701574859 ns, error: 4018 ns
+Scheduler latency: 52743 ns
+[1766629830.702620333] Destination receives msg, send_time: 1766629830702616037 ns, recv_time: 1766629830702620333 ns, error: 4296 ns
+Scheduler latency: 52642 ns
+[1766629830.703619899] Destination receives msg, send_time: 1766629830703615936 ns, recv_time: 1766629830703619899 ns, error: 3963 ns
+Scheduler latency: 52708 ns
+[1766629830.704620428] Destination receives msg, send_time: 1766629830704616002 ns, recv_time: 1766629830704620428 ns, error: 4426 ns
+Scheduler latency: 11866 ns
+[1766629830.705579512] Destination receives msg, send_time: 1766629830705575160 ns, recv_time: 1766629830705579512 ns, error: 4352 ns
+Scheduler latency: 52970 ns
+[1766629830.706620708] Destination receives msg, send_time: 1766629830706616264 ns, recv_time: 1766629830706620708 ns, error: 4444 ns
+Scheduler latency: 52758 ns
+[1766629830.707620052] Destination receives msg, send_time: 1766629830707616052 ns, recv_time: 1766629830707620052 ns, error: 4000 ns
+Scheduler latency: 52694 ns
+[1766629830.708619951] Destination receives msg, send_time: 1766629830708615988 ns, recv_time: 1766629830708619951 ns, error: 3963 ns
+Scheduler latency: 18297 ns
+[1766629830.709585684] Destination receives msg, send_time: 1766629830709581591 ns, recv_time: 1766629830709585684 ns, error: 4093 ns
+Scheduler latency: 53123 ns
+[1766629830.710620639] Destination receives msg, send_time: 1766629830710616417 ns, recv_time: 1766629830710620639 ns, error: 4222 ns
+Scheduler latency: 52707 ns
+[1766629830.711620001] Destination receives msg, send_time: 1766629830711616001 ns, recv_time: 1766629830711620001 ns, error: 4000 ns
+Scheduler latency: 52625 ns
+[1766629830.712620234] Destination receives msg, send_time: 1766629830712615919 ns, recv_time: 1766629830712620234 ns, error: 4315 ns
+Scheduler latency: 8431 ns
+[1766629830.713576281] Destination receives msg, send_time: 1766629830713571725 ns, recv_time: 1766629830713576281 ns, error: 4556 ns
+Scheduler latency: 52850 ns
+[1766629830.714620403] Destination receives msg, send_time: 1766629830714616144 ns, recv_time: 1766629830714620403 ns, error: 4259 ns
+Scheduler latency: 52657 ns
+[1766629830.715619951] Destination receives msg, send_time: 1766629830715615951 ns, recv_time: 1766629830715619951 ns, error: 4000 ns
+Scheduler latency: 52648 ns
+[1766629830.716620368] Destination receives msg, send_time: 1766629830716615942 ns, recv_time: 1766629830716620368 ns, error: 4426 ns
+Scheduler latency: 9788 ns
+[1766629830.717577415] Destination receives msg, send_time: 1766629830717573082 ns, recv_time: 1766629830717577415 ns, error: 4333 ns
+Scheduler latency: 54781 ns
+[1766629830.718622075] Destination receives msg, send_time: 1766629830718618075 ns, recv_time: 1766629830718622075 ns, error: 4000 ns
+Scheduler latency: 54254 ns
+[1766629830.719621881] Destination receives msg, send_time: 1766629830719617548 ns, recv_time: 1766629830719621881 ns, error: 4333 ns
+Scheduler latency: 53950 ns
+[1766629830.720621670] Destination receives msg, send_time: 1766629830720617244 ns, recv_time: 1766629830720621670 ns, error: 4426 ns
+Scheduler latency: 53830 ns
+[1766629830.721621087] Destination receives msg, send_time: 1766629830721617124 ns, recv_time: 1766629830721621087 ns, error: 3963 ns
+Scheduler latency: 53156 ns
+[1766629830.722620764] Destination receives msg, send_time: 1766629830722616450 ns, recv_time: 1766629830722620764 ns, error: 4314 ns
+Scheduler latency: 53073 ns
+[1766629830.723620812] Destination receives msg, send_time: 1766629830723616367 ns, recv_time: 1766629830723620812 ns, error: 4445 ns
+Scheduler latency: 53028 ns
+[1766629830.724620674] Destination receives msg, send_time: 1766629830724616322 ns, recv_time: 1766629830724620674 ns, error: 4352 ns
+Scheduler latency: 53465 ns
+[1766629830.725620703] Destination receives msg, send_time: 1766629830725616759 ns, recv_time: 1766629830725620703 ns, error: 3944 ns
+Scheduler latency: 53790 ns
+[1766629830.726621399] Destination receives msg, send_time: 1766629830726617084 ns, recv_time: 1766629830726621399 ns, error: 4315 ns
+Scheduler latency: 53041 ns
+[1766629830.727620761] Destination receives msg, send_time: 1766629830727616335 ns, recv_time: 1766629830727620761 ns, error: 4426 ns
+Scheduler latency: 53015 ns
+[1766629830.728620253] Destination receives msg, send_time: 1766629830728616309 ns, recv_time: 1766629830728620253 ns, error: 3944 ns
+Scheduler latency: 53414 ns
+[1766629830.729620690] Destination receives msg, send_time: 1766629830729616708 ns, recv_time: 1766629830729620690 ns, error: 3982 ns
+Scheduler latency: 53110 ns
+[1766629830.730620867] Destination receives msg, send_time: 1766629830730616404 ns, recv_time: 1766629830730620867 ns, error: 4463 ns
+Scheduler latency: 53157 ns
+[1766629830.731620692] Destination receives msg, send_time: 1766629830731616451 ns, recv_time: 1766629830731620692 ns, error: 4241 ns
+Scheduler latency: 53056 ns
+[1766629830.732620665] Destination receives msg, send_time: 1766629830732616350 ns, recv_time: 1766629830732620665 ns, error: 4315 ns
+Scheduler latency: 53419 ns
+[1766629830.733620676] Destination receives msg, send_time: 1766629830733616713 ns, recv_time: 1766629830733620676 ns, error: 3963 ns
+Scheduler latency: 53114 ns
+[1766629830.734620853] Destination receives msg, send_time: 1766629830734616408 ns, recv_time: 1766629830734620853 ns, error: 4445 ns
+Scheduler latency: 53254 ns
+[1766629830.735620808] Destination receives msg, send_time: 1766629830735616548 ns, recv_time: 1766629830735620808 ns, error: 4260 ns
+Scheduler latency: 53043 ns
+[1766629830.736620652] Destination receives msg, send_time: 1766629830736616337 ns, recv_time: 1766629830736620652 ns, error: 4315 ns
+Scheduler latency: 53683 ns
+[1766629830.737621514] Destination receives msg, send_time: 1766629830737616977 ns, recv_time: 1766629830737621514 ns, error: 4537 ns
+Scheduler latency: 53064 ns
+[1766629830.738620765] Destination receives msg, send_time: 1766629830738616358 ns, recv_time: 1766629830738620765 ns, error: 4407 ns
+Scheduler latency: 53000 ns
+[1766629830.739620590] Destination receives msg, send_time: 1766629830739616294 ns, recv_time: 1766629830739620590 ns, error: 4296 ns
+Scheduler latency: 53047 ns
+[1766629830.740620767] Destination receives msg, send_time: 1766629830740616341 ns, recv_time: 1766629830740620767 ns, error: 4426 ns
+Scheduler latency: 53428 ns
+[1766629830.741621037] Destination receives msg, send_time: 1766629830741616722 ns, recv_time: 1766629830741621037 ns, error: 4315 ns
+Scheduler latency: 52957 ns
+[1766629830.742620548] Destination receives msg, send_time: 1766629830742616251 ns, recv_time: 1766629830742620548 ns, error: 4297 ns
+Scheduler latency: 53023 ns
+[1766629830.743620762] Destination receives msg, send_time: 1766629830743616317 ns, recv_time: 1766629830743620762 ns, error: 4445 ns
+Scheduler latency: 54941 ns
+[1766629830.744622680] Destination receives msg, send_time: 1766629830744618235 ns, recv_time: 1766629830744622680 ns, error: 4445 ns
+Scheduler latency: 382159 ns
+[1766629830.745950045] Destination receives msg, send_time: 1766629830745945453 ns, recv_time: 1766629830745950045 ns, error: 4592 ns --Deadline misses--
+Scheduler latency: 61110 ns
+[1766629830.746628664] Destination receives msg, send_time: 1766629830746624404 ns, recv_time: 1766629830746628664 ns, error: 4260 ns --Deadline misses--
+Scheduler latency: 57861 ns
+[1766629830.747625396] Destination receives msg, send_time: 1766629830747621155 ns, recv_time: 1766629830747625396 ns, error: 4241 ns --Deadline misses--
+Scheduler latency: 57076 ns
+[1766629830.748624777] Destination receives msg, send_time: 1766629830748620370 ns, recv_time: 1766629830748624777 ns, error: 4407 ns --Deadline misses--
+Scheduler latency: 55345 ns
+[1766629830.749623528] Destination receives msg, send_time: 1766629830749618639 ns, recv_time: 1766629830749623528 ns, error: 4889 ns
+Scheduler latency: 53874 ns
+[1766629830.750621539] Destination receives msg, send_time: 1766629830750617168 ns, recv_time: 1766629830750621539 ns, error: 4371 ns
+Scheduler latency: 1350454 ns
+[1766629830.752919489] Destination receives msg, send_time: 1766629830752913748 ns, recv_time: 1766629830752919489 ns, error: 5741 ns --Deadline misses--
+Scheduler latency: 357102 ns
+[1766629830.752924618] Destination receives msg, send_time: 1766629830752920396 ns, recv_time: 1766629830752924618 ns, error: 4222 ns --Deadline misses--
+Scheduler latency: 36554 ns
+[1766629830.753604199] Destination receives msg, send_time: 1766629830753599848 ns, recv_time: 1766629830753604199 ns, error: 4351 ns
+Scheduler latency: 54286 ns
+[1766629830.754622099] Destination receives msg, send_time: 1766629830754617580 ns, recv_time: 1766629830754622099 ns, error: 4519 ns
+Scheduler latency: 128594 ns
+[1766629830.755696388] Destination receives msg, send_time: 1766629830755691888 ns, recv_time: 1766629830755696388 ns, error: 4500 ns --Deadline misses--
+Scheduler latency: 57011 ns
+[1766629830.756624583] Destination receives msg, send_time: 1766629830756620305 ns, recv_time: 1766629830756624583 ns, error: 4278 ns --Deadline misses--
+Scheduler latency: 25355 ns
+[1766629830.757594037] Destination receives msg, send_time: 1766629830757588649 ns, recv_time: 1766629830757594037 ns, error: 5388 ns
+Scheduler latency: 53402 ns
+[1766629830.758620974] Destination receives msg, send_time: 1766629830758616696 ns, recv_time: 1766629830758620974 ns, error: 4278 ns
+Scheduler latency: 53746 ns
+[1766629830.759621392] Destination receives msg, send_time: 1766629830759617040 ns, recv_time: 1766629830759621392 ns, error: 4352 ns
+Scheduler latency: 84831 ns
+[1766629830.760652643] Destination receives msg, send_time: 1766629830760648125 ns, recv_time: 1766629830760652643 ns, error: 4518 ns --Deadline misses--
+Scheduler latency: 35619 ns
+[1766629830.761603320] Destination receives msg, send_time: 1766629830761598913 ns, recv_time: 1766629830761603320 ns, error: 4407 ns
+Scheduler latency: 54722 ns
+[1766629830.762622442] Destination receives msg, send_time: 1766629830762618016 ns, recv_time: 1766629830762622442 ns, error: 4426 ns
+Scheduler latency: 53436 ns
+[1766629830.763620934] Destination receives msg, send_time: 1766629830763616730 ns, recv_time: 1766629830763620934 ns, error: 4204 ns
+Scheduler latency: 53595 ns
+[1766629830.764621203] Destination receives msg, send_time: 1766629830764616889 ns, recv_time: 1766629830764621203 ns, error: 4314 ns
+Scheduler latency: 2658632 ns
+[1766629830.768227056] Destination receives msg, send_time: 1766629830768221926 ns, recv_time: 1766629830768227056 ns, error: 5130 ns --Deadline misses--
+Scheduler latency: 1664688 ns
+[1766629830.768232278] Destination receives msg, send_time: 1766629830768227982 ns, recv_time: 1766629830768232278 ns, error: 4296 ns --Deadline misses--
+Scheduler latency: 669466 ns
+[1766629830.768236945] Destination receives msg, send_time: 1766629830768232760 ns, recv_time: 1766629830768236945 ns, error: 4185 ns --Deadline misses--
+Scheduler latency: 62785 ns
+[1766629830.768631208] Destination receives msg, send_time: 1766629830768626079 ns, recv_time: 1766629830768631208 ns, error: 5129 ns --Deadline misses--
+Scheduler latency: 40850 ns
+[1766629830.769609237] Destination receives msg, send_time: 1766629830769604144 ns, recv_time: 1766629830769609237 ns, error: 5093 ns
+Scheduler latency: 58287 ns
+[1766629830.770626229] Destination receives msg, send_time: 1766629830770621581 ns, recv_time: 1766629830770626229 ns, error: 4648 ns --Deadline misses--
+Scheduler latency: 64483 ns
+[1766629830.771632703] Destination receives msg, send_time: 1766629830771627777 ns, recv_time: 1766629830771632703 ns, error: 4926 ns --Deadline misses--
+Scheduler latency: 61364 ns
+[1766629830.772629306] Destination receives msg, send_time: 1766629830772624658 ns, recv_time: 1766629830772629306 ns, error: 4648 ns --Deadline misses--
+Scheduler latency: 31614 ns
+[1766629830.773599408] Destination receives msg, send_time: 1766629830773594908 ns, recv_time: 1766629830773599408 ns, error: 4500 ns
+Scheduler latency: 58736 ns
+[1766629830.774626530] Destination receives msg, send_time: 1766629830774622030 ns, recv_time: 1766629830774626530 ns, error: 4500 ns --Deadline misses--
+Scheduler latency: 60247 ns
+[1766629830.775628485] Destination receives msg, send_time: 1766629830775623541 ns, recv_time: 1766629830775628485 ns, error: 4944 ns --Deadline misses--
+Scheduler latency: 60183 ns
+[1766629830.776628385] Destination receives msg, send_time: 1766629830776623477 ns, recv_time: 1766629830776628385 ns, error: 4908 ns --Deadline misses--
+Scheduler latency: 18101 ns
+[1766629830.777596413] Destination receives msg, send_time: 1766629830777581395 ns, recv_time: 1766629830777596413 ns, error: 15018 ns
+Scheduler latency: 57500 ns
+[1766629830.778625331] Destination receives msg, send_time: 1766629830778620794 ns, recv_time: 1766629830778625331 ns, error: 4537 ns --Deadline misses--
+Scheduler latency: 57566 ns
+[1766629830.779625416] Destination receives msg, send_time: 1766629830779620860 ns, recv_time: 1766629830779625416 ns, error: 4556 ns --Deadline misses--
+Scheduler latency: 56799 ns
+[1766629830.780624612] Destination receives msg, send_time: 1766629830780620093 ns, recv_time: 1766629830780624612 ns, error: 4519 ns --Deadline misses--
+Scheduler latency: 17198 ns
+[1766629830.781584899] Destination receives msg, send_time: 1766629830781580492 ns, recv_time: 1766629830781584899 ns, error: 4407 ns
+Scheduler latency: 57449 ns
+[1766629830.782625299] Destination receives msg, send_time: 1766629830782620743 ns, recv_time: 1766629830782625299 ns, error: 4556 ns --Deadline misses--
+Scheduler latency: 56645 ns
+[1766629830.783624180] Destination receives msg, send_time: 1766629830783619939 ns, recv_time: 1766629830783624180 ns, error: 4241 ns --Deadline misses--
+Scheduler latency: 56785 ns
+[1766629830.784624487] Destination receives msg, send_time: 1766629830784620079 ns, recv_time: 1766629830784624487 ns, error: 4408 ns --Deadline misses--
+Scheduler latency: 19536 ns
+[1766629830.785587312] Destination receives msg, send_time: 1766629830785582830 ns, recv_time: 1766629830785587312 ns, error: 4482 ns
+Scheduler latency: 56751 ns
+[1766629830.786624582] Destination receives msg, send_time: 1766629830786620045 ns, recv_time: 1766629830786624582 ns, error: 4537 ns --Deadline misses--
+Scheduler latency: 56872 ns
+[1766629830.787624851] Destination receives msg, send_time: 1766629830787620166 ns, recv_time: 1766629830787624851 ns, error: 4685 ns --Deadline misses--
+Scheduler latency: 57123 ns
+[1766629830.788624843] Destination receives msg, send_time: 1766629830788620417 ns, recv_time: 1766629830788624843 ns, error: 4426 ns --Deadline misses--
+Scheduler latency: 21337 ns
+[1766629830.789589150] Destination receives msg, send_time: 1766629830789584631 ns, recv_time: 1766629830789589150 ns, error: 4519 ns
+Scheduler latency: 57681 ns
+[1766629830.790625235] Destination receives msg, send_time: 1766629830790620975 ns, recv_time: 1766629830790625235 ns, error: 4260 ns --Deadline misses--
+Scheduler latency: 56784 ns
+[1766629830.791624634] Destination receives msg, send_time: 1766629830791620078 ns, recv_time: 1766629830791624634 ns, error: 4556 ns --Deadline misses--
+Scheduler latency: 56091 ns
+[1766629830.792623922] Destination receives msg, send_time: 1766629830792619385 ns, recv_time: 1766629830792623922 ns, error: 4537 ns --Deadline misses--
+Scheduler latency: 71953 ns
+[1766629830.793639544] Destination receives msg, send_time: 1766629830793635247 ns, recv_time: 1766629830793639544 ns, error: 4297 ns --Deadline misses--
+Scheduler latency: 57316 ns
+[1766629830.794624943] Destination receives msg, send_time: 1766629830794620610 ns, recv_time: 1766629830794624943 ns, error: 4333 ns --Deadline misses--
+Scheduler latency: 57085 ns
+[1766629830.795624620] Destination receives msg, send_time: 1766629830795620379 ns, recv_time: 1766629830795624620 ns, error: 4241 ns --Deadline misses--
+Scheduler latency: 57485 ns
+[1766629830.796625057] Destination receives msg, send_time: 1766629830796620779 ns, recv_time: 1766629830796625057 ns, error: 4278 ns --Deadline misses--
+Scheduler latency: 18328 ns
+[1766629830.797586715] Destination receives msg, send_time: 1766629830797581622 ns, recv_time: 1766629830797586715 ns, error: 5093 ns
+Scheduler latency: 56080 ns
+[1766629830.798623800] Destination receives msg, send_time: 1766629830798619374 ns, recv_time: 1766629830798623800 ns, error: 4426 ns --Deadline misses--
+Scheduler latency: 56849 ns
+[1766629830.799624643] Destination receives msg, send_time: 1766629830799620143 ns, recv_time: 1766629830799624643 ns, error: 4500 ns --Deadline misses--
+Scheduler latency: 56823 ns
+[1766629830.800624506] Destination receives msg, send_time: 1766629830800620117 ns, recv_time: 1766629830800624506 ns, error: 4389 ns --Deadline misses--
+Scheduler latency: 20555 ns
+[1766629830.801588423] Destination receives msg, send_time: 1766629830801583849 ns, recv_time: 1766629830801588423 ns, error: 4574 ns
+Scheduler latency: 56751 ns
+[1766629830.802624490] Destination receives msg, send_time: 1766629830802620045 ns, recv_time: 1766629830802624490 ns, error: 4445 ns --Deadline misses--
+Scheduler latency: 57317 ns
+[1766629830.803625019] Destination receives msg, send_time: 1766629830803620611 ns, recv_time: 1766629830803625019 ns, error: 4408 ns --Deadline misses--
+Scheduler latency: 56661 ns
+[1766629830.804624418] Destination receives msg, send_time: 1766629830804619955 ns, recv_time: 1766629830804624418 ns, error: 4463 ns --Deadline misses--
+Scheduler latency: 29523 ns
+[1766629830.805597373] Destination receives msg, send_time: 1766629830805592817 ns, recv_time: 1766629830805597373 ns, error: 4556 ns
+Scheduler latency: 57386 ns
+[1766629830.806625031] Destination receives msg, send_time: 1766629830806620680 ns, recv_time: 1766629830806625031 ns, error: 4351 ns --Deadline misses--
+Scheduler latency: 56618 ns
+[1766629830.807624116] Destination receives msg, send_time: 1766629830807619912 ns, recv_time: 1766629830807624116 ns, error: 4204 ns --Deadline misses--
+Scheduler latency: 56925 ns
+[1766629830.808624552] Destination receives msg, send_time: 1766629830808620219 ns, recv_time: 1766629830808624552 ns, error: 4333 ns --Deadline misses--
+Scheduler latency: 20176 ns
+[1766629830.809587914] Destination receives msg, send_time: 1766629830809583470 ns, recv_time: 1766629830809587914 ns, error: 4444 ns
+Scheduler latency: 59742 ns
+[1766629830.810627647] Destination receives msg, send_time: 1766629830810623036 ns, recv_time: 1766629830810627647 ns, error: 4611 ns --Deadline misses--
+Scheduler latency: 61030 ns
+[1766629830.811628973] Destination receives msg, send_time: 1766629830811624324 ns, recv_time: 1766629830811628973 ns, error: 4649 ns --Deadline misses--
+Scheduler latency: 61170 ns
+[1766629830.812628872] Destination receives msg, send_time: 1766629830812624464 ns, recv_time: 1766629830812628872 ns, error: 4408 ns --Deadline misses--
+Scheduler latency: 45477 ns
+[1766629830.813613530] Destination receives msg, send_time: 1766629830813608771 ns, recv_time: 1766629830813613530 ns, error: 4759 ns
+Scheduler latency: 64414 ns
+[1766629830.814632523] Destination receives msg, send_time: 1766629830814627708 ns, recv_time: 1766629830814632523 ns, error: 4815 ns --Deadline misses--
+Scheduler latency: 61239 ns
+[1766629830.815628792] Destination receives msg, send_time: 1766629830815624533 ns, recv_time: 1766629830815628792 ns, error: 4259 ns --Deadline misses--
+Scheduler latency: 59786 ns
+[1766629830.816628377] Destination receives msg, send_time: 1766629830816623080 ns, recv_time: 1766629830816628377 ns, error: 5297 ns --Deadline misses--
+Scheduler latency: 21167 ns
+[1766629830.817589165] Destination receives msg, send_time: 1766629830817584461 ns, recv_time: 1766629830817589165 ns, error: 4704 ns
+Scheduler latency: 58307 ns
+[1766629830.818626305] Destination receives msg, send_time: 1766629830818621601 ns, recv_time: 1766629830818626305 ns, error: 4704 ns --Deadline misses--
+Scheduler latency: 65318 ns
+[1766629830.819633056] Destination receives msg, send_time: 1766629830819628612 ns, recv_time: 1766629830819633056 ns, error: 4444 ns --Deadline misses--
+Scheduler latency: 78236 ns
+[1766629830.820646548] Destination receives msg, send_time: 1766629830820641530 ns, recv_time: 1766629830820646548 ns, error: 5018 ns --Deadline misses--
+Scheduler latency: 42394 ns
+[1766629830.821610207] Destination receives msg, send_time: 1766629830821605688 ns, recv_time: 1766629830821610207 ns, error: 4519 ns
+Scheduler latency: 54182 ns
+[1766629830.822621662] Destination receives msg, send_time: 1766629830822617476 ns, recv_time: 1766629830822621662 ns, error: 4186 ns
+Scheduler latency: 55471 ns
+[1766629830.823623098] Destination receives msg, send_time: 1766629830823618765 ns, recv_time: 1766629830823623098 ns, error: 4333 ns
+Scheduler latency: 55074 ns
+[1766629830.824622701] Destination receives msg, send_time: 1766629830824618368 ns, recv_time: 1766629830824622701 ns, error: 4333 ns
+Scheduler latency: 49695 ns
+[1766629830.825617193] Destination receives msg, send_time: 1766629830825612989 ns, recv_time: 1766629830825617193 ns, error: 4204 ns
+Scheduler latency: 58132 ns
+[1766629830.826626240] Destination receives msg, send_time: 1766629830826621426 ns, recv_time: 1766629830826626240 ns, error: 4814 ns --Deadline misses--
+Scheduler latency: 53123 ns
+[1766629830.827620547] Destination receives msg, send_time: 1766629830827616417 ns, recv_time: 1766629830827620547 ns, error: 4130 ns
+Scheduler latency: 52597 ns
+[1766629830.828620076] Destination receives msg, send_time: 1766629830828615891 ns, recv_time: 1766629830828620076 ns, error: 4185 ns
+Scheduler latency: 19181 ns
+[1766629830.829586642] Destination receives msg, send_time: 1766629830829582475 ns, recv_time: 1766629830829586642 ns, error: 4167 ns
+Scheduler latency: 53414 ns
+[1766629830.830621041] Destination receives msg, send_time: 1766629830830616708 ns, recv_time: 1766629830830621041 ns, error: 4333 ns
+Scheduler latency: 53702 ns
+[1766629830.831621145] Destination receives msg, send_time: 1766629830831616996 ns, recv_time: 1766629830831621145 ns, error: 4149 ns
+Scheduler latency: 52898 ns
+[1766629830.832620248] Destination receives msg, send_time: 1766629830832616192 ns, recv_time: 1766629830832620248 ns, error: 4056 ns
+Scheduler latency: 19871 ns
+[1766629830.833587443] Destination receives msg, send_time: 1766629830833583165 ns, recv_time: 1766629830833587443 ns, error: 4278 ns
+Scheduler latency: 54604 ns
+[1766629830.834622343] Destination receives msg, send_time: 1766629830834617898 ns, recv_time: 1766629830834622343 ns, error: 4445 ns
+Scheduler latency: 848419 ns
+[1766629830.836417491] Destination receives msg, send_time: 1766629830836411713 ns, recv_time: 1766629830836417491 ns, error: 5778 ns --Deadline misses--
+Scheduler latency: 58218 ns
+[1766629830.836626086] Destination receives msg, send_time: 1766629830836621512 ns, recv_time: 1766629830836626086 ns, error: 4574 ns --Deadline misses--
+Scheduler latency: 233045 ns
+[1766629830.837802431] Destination receives msg, send_time: 1766629830837796339 ns, recv_time: 1766629830837802431 ns, error: 6092 ns --Deadline misses--
+Scheduler latency: 62646 ns
+[1766629830.838630255] Destination receives msg, send_time: 1766629830838625940 ns, recv_time: 1766629830838630255 ns, error: 4315 ns --Deadline misses--
+Scheduler latency: 58601 ns
+[1766629830.839626562] Destination receives msg, send_time: 1766629830839621895 ns, recv_time: 1766629830839626562 ns, error: 4667 ns --Deadline misses--
+Scheduler latency: 53759 ns
+[1766629830.840621165] Destination receives msg, send_time: 1766629830840617053 ns, recv_time: 1766629830840621165 ns, error: 4112 ns
+Scheduler latency: 233105 ns
+[1766629830.841801862] Destination receives msg, send_time: 1766629830841796399 ns, recv_time: 1766629830841801862 ns, error: 5463 ns --Deadline misses--
+Scheduler latency: 65225 ns
+[1766629830.842633074] Destination receives msg, send_time: 1766629830842628519 ns, recv_time: 1766629830842633074 ns, error: 4555 ns --Deadline misses--
+Scheduler latency: 891040 ns
+[1766629830.844458927] Destination receives msg, send_time: 1766629830844454334 ns, recv_time: 1766629830844458927 ns, error: 4593 ns --Deadline misses--
+Scheduler latency: 63283 ns
+[1766629830.844631058] Destination receives msg, send_time: 1766629830844626577 ns, recv_time: 1766629830844631058 ns, error: 4481 ns --Deadline misses--
+Scheduler latency: 56941 ns
+[1766629830.845625069] Destination receives msg, send_time: 1766629830845620235 ns, recv_time: 1766629830845625069 ns, error: 4834 ns --Deadline misses--
+Scheduler latency: 65933 ns
+[1766629830.846633894] Destination receives msg, send_time: 1766629830846629227 ns, recv_time: 1766629830846633894 ns, error: 4667 ns --Deadline misses--
+Scheduler latency: 54647 ns
+[1766629830.847622293] Destination receives msg, send_time: 1766629830847617941 ns, recv_time: 1766629830847622293 ns, error: 4352 ns
+Scheduler latency: 55102 ns
+[1766629830.848622748] Destination receives msg, send_time: 1766629830848618396 ns, recv_time: 1766629830848622748 ns, error: 4352 ns
+Scheduler latency: 2006652 ns
+[1766629830.851574909] Destination receives msg, send_time: 1766629830851569946 ns, recv_time: 1766629830851574909 ns, error: 4963 ns --Deadline misses--
+Scheduler latency: 1013078 ns
+[1766629830.851580742] Destination receives msg, send_time: 1766629830851576372 ns, recv_time: 1766629830851580742 ns, error: 4370 ns --Deadline misses--
+Scheduler latency: 18115 ns
+[1766629830.851585557] Destination receives msg, send_time: 1766629830851581409 ns, recv_time: 1766629830851585557 ns, error: 4148 ns
+Scheduler latency: 63459 ns
+[1766629830.852630957] Destination receives msg, send_time: 1766629830852626753 ns, recv_time: 1766629830852630957 ns, error: 4204 ns --Deadline misses--
+Scheduler latency: 74747 ns
+[1766629830.853643652] Destination receives msg, send_time: 1766629830853638041 ns, recv_time: 1766629830853643652 ns, error: 5611 ns --Deadline misses--
+Scheduler latency: 60276 ns
+[1766629830.854629033] Destination receives msg, send_time: 1766629830854623570 ns, recv_time: 1766629830854629033 ns, error: 5463 ns --Deadline misses--
+Scheduler latency: 55953 ns
+[1766629830.855623747] Destination receives msg, send_time: 1766629830855619247 ns, recv_time: 1766629830855623747 ns, error: 4500 ns --Deadline misses--
+Scheduler latency: 1344773 ns
+[1766629830.857914345] Destination receives msg, send_time: 1766629830857908067 ns, recv_time: 1766629830857914345 ns, error: 6278 ns --Deadline misses--
+Scheduler latency: 351885 ns
+[1766629830.857919808] Destination receives msg, send_time: 1766629830857915179 ns, recv_time: 1766629830857919808 ns, error: 4629 ns --Deadline misses--
+Scheduler latency: 56522 ns
+[1766629830.858624964] Destination receives msg, send_time: 1766629830858619816 ns, recv_time: 1766629830858624964 ns, error: 5148 ns --Deadline misses--
+Scheduler latency: 52939 ns
+[1766629830.859620437] Destination receives msg, send_time: 1766629830859616233 ns, recv_time: 1766629830859620437 ns, error: 4204 ns
+Scheduler latency: 52709 ns
+[1766629830.860620059] Destination receives msg, send_time: 1766629830860616003 ns, recv_time: 1766629830860620059 ns, error: 4056 ns
+Scheduler latency: 52516 ns
+[1766629830.861620680] Destination receives msg, send_time: 1766629830861615810 ns, recv_time: 1766629830861620680 ns, error: 4870 ns
+Scheduler latency: 66452 ns
+[1766629830.862634302] Destination receives msg, send_time: 1766629830862629746 ns, recv_time: 1766629830862634302 ns, error: 4556 ns --Deadline misses--
+Scheduler latency: 57129 ns
+[1766629830.863624812] Destination receives msg, send_time: 1766629830863620423 ns, recv_time: 1766629830863624812 ns, error: 4389 ns --Deadline misses--
+Scheduler latency: 53825 ns
+[1766629830.864621564] Destination receives msg, send_time: 1766629830864617119 ns, recv_time: 1766629830864621564 ns, error: 4445 ns
+Scheduler latency: 14150 ns
+[1766629830.865581574] Destination receives msg, send_time: 1766629830865577444 ns, recv_time: 1766629830865581574 ns, error: 4130 ns
+Scheduler latency: 52920 ns
+[1766629830.866620603] Destination receives msg, send_time: 1766629830866616214 ns, recv_time: 1766629830866620603 ns, error: 4389 ns
+Scheduler latency: 52727 ns
+[1766629830.867620262] Destination receives msg, send_time: 1766629830867616021 ns, recv_time: 1766629830867620262 ns, error: 4241 ns
+Scheduler latency: 52682 ns
+[1766629830.868620661] Destination receives msg, send_time: 1766629830868615976 ns, recv_time: 1766629830868620661 ns, error: 4685 ns
+Scheduler latency: 11599 ns
+[1766629830.869578893] Destination receives msg, send_time: 1766629830869574893 ns, recv_time: 1766629830869578893 ns, error: 4000 ns
+Scheduler latency: 55443 ns
+[1766629830.870623145] Destination receives msg, send_time: 1766629830870618737 ns, recv_time: 1766629830870623145 ns, error: 4408 ns
+Scheduler latency: 54287 ns
+[1766629830.871621970] Destination receives msg, send_time: 1766629830871617581 ns, recv_time: 1766629830871621970 ns, error: 4389 ns
+Scheduler latency: 52798 ns
+[1766629830.872620758] Destination receives msg, send_time: 1766629830872616092 ns, recv_time: 1766629830872620758 ns, error: 4666 ns
+Scheduler latency: 10456 ns
+[1766629830.873578139] Destination receives msg, send_time: 1766629830873573750 ns, recv_time: 1766629830873578139 ns, error: 4389 ns
+Scheduler latency: 52818 ns
+[1766629830.874620224] Destination receives msg, send_time: 1766629830874616112 ns, recv_time: 1766629830874620224 ns, error: 4112 ns
+Scheduler latency: 52662 ns
+[1766629830.875620271] Destination receives msg, send_time: 1766629830875615956 ns, recv_time: 1766629830875620271 ns, error: 4315 ns
+Scheduler latency: 52673 ns
+[1766629830.876620411] Destination receives msg, send_time: 1766629830876615967 ns, recv_time: 1766629830876620411 ns, error: 4444 ns
+Scheduler latency: 14257 ns
+[1766629830.877582088] Destination receives msg, send_time: 1766629830877577551 ns, recv_time: 1766629830877582088 ns, error: 4537 ns
+Scheduler latency: 56823 ns
+[1766629830.878624562] Destination receives msg, send_time: 1766629830878620117 ns, recv_time: 1766629830878624562 ns, error: 4445 ns --Deadline misses--
+Scheduler latency: 54686 ns
+[1766629830.879622017] Destination receives msg, send_time: 1766629830879617980 ns, recv_time: 1766629830879622017 ns, error: 4037 ns
+Scheduler latency: 53196 ns
+[1766629830.880620749] Destination receives msg, send_time: 1766629830880616490 ns, recv_time: 1766629830880620749 ns, error: 4259 ns
+Scheduler latency: 53410 ns
+[1766629830.881621112] Destination receives msg, send_time: 1766629830881616704 ns, recv_time: 1766629830881621112 ns, error: 4408 ns
+Scheduler latency: 52976 ns
+[1766629830.882620715] Destination receives msg, send_time: 1766629830882616270 ns, recv_time: 1766629830882620715 ns, error: 4445 ns
+Scheduler latency: 56709 ns
+[1766629830.883624540] Destination receives msg, send_time: 1766629830883620003 ns, recv_time: 1766629830883624540 ns, error: 4537 ns --Deadline misses--
+Scheduler latency: 54756 ns
+[1766629830.884622365] Destination receives msg, send_time: 1766629830884618050 ns, recv_time: 1766629830884622365 ns, error: 4315 ns
+Scheduler latency: 53545 ns
+[1766629830.885621098] Destination receives msg, send_time: 1766629830885616839 ns, recv_time: 1766629830885621098 ns, error: 4259 ns
+Scheduler latency: 52481 ns
+[1766629830.886619979] Destination receives msg, send_time: 1766629830886615775 ns, recv_time: 1766629830886619979 ns, error: 4204 ns
+Scheduler latency: 52639 ns
+[1766629830.887620174] Destination receives msg, send_time: 1766629830887615933 ns, recv_time: 1766629830887620174 ns, error: 4241 ns
+Scheduler latency: 52631 ns
+[1766629830.888620240] Destination receives msg, send_time: 1766629830888615925 ns, recv_time: 1766629830888620240 ns, error: 4315 ns
+Scheduler latency: 33086 ns
+[1766629830.889600806] Destination receives msg, send_time: 1766629830889596380 ns, recv_time: 1766629830889600806 ns, error: 4426 ns
+Scheduler latency: 53504 ns
+[1766629830.890621224] Destination receives msg, send_time: 1766629830890616798 ns, recv_time: 1766629830890621224 ns, error: 4426 ns
+Scheduler latency: 53200 ns
+[1766629830.891620790] Destination receives msg, send_time: 1766629830891616494 ns, recv_time: 1766629830891620790 ns, error: 4296 ns
+Scheduler latency: 52988 ns
+[1766629830.892620652] Destination receives msg, send_time: 1766629830892616282 ns, recv_time: 1766629830892620652 ns, error: 4370 ns
+Scheduler latency: 53369 ns
+[1766629830.893620848] Destination receives msg, send_time: 1766629830893616663 ns, recv_time: 1766629830893620848 ns, error: 4185 ns
+Scheduler latency: 53250 ns
+[1766629830.894620896] Destination receives msg, send_time: 1766629830894616544 ns, recv_time: 1766629830894620896 ns, error: 4352 ns
+Scheduler latency: 53112 ns
+[1766629830.895620943] Destination receives msg, send_time: 1766629830895616406 ns, recv_time: 1766629830895620943 ns, error: 4537 ns
+Scheduler latency: 52993 ns
+[1766629830.896620435] Destination receives msg, send_time: 1766629830896616287 ns, recv_time: 1766629830896620435 ns, error: 4148 ns
+Scheduler latency: 53337 ns
+[1766629830.897621038] Destination receives msg, send_time: 1766629830897616631 ns, recv_time: 1766629830897621038 ns, error: 4407 ns
+Scheduler latency: 53217 ns
+[1766629830.898620919] Destination receives msg, send_time: 1766629830898616511 ns, recv_time: 1766629830898620919 ns, error: 4408 ns
+Scheduler latency: 53061 ns
+[1766629830.899620355] Destination receives msg, send_time: 1766629830899616355 ns, recv_time: 1766629830899620355 ns, error: 4000 ns
+Scheduler latency: 53016 ns
+[1766629830.900620736] Destination receives msg, send_time: 1766629830900616310 ns, recv_time: 1766629830900620736 ns, error: 4426 ns
+Scheduler latency: 53212 ns
+[1766629830.901621172] Destination receives msg, send_time: 1766629830901616506 ns, recv_time: 1766629830901621172 ns, error: 4666 ns
+Scheduler latency: 53018 ns
+[1766629830.902621072] Destination receives msg, send_time: 1766629830902616312 ns, recv_time: 1766629830902621072 ns, error: 4760 ns
+Scheduler latency: 53010 ns
+[1766629830.903620953] Destination receives msg, send_time: 1766629830903616304 ns, recv_time: 1766629830903620953 ns, error: 4649 ns
+Scheduler latency: 53002 ns
+[1766629830.904620852] Destination receives msg, send_time: 1766629830904616296 ns, recv_time: 1766629830904620852 ns, error: 4556 ns
+Scheduler latency: 53328 ns
+[1766629830.905620899] Destination receives msg, send_time: 1766629830905616622 ns, recv_time: 1766629830905620899 ns, error: 4277 ns
+Scheduler latency: 53023 ns
+[1766629830.906620743] Destination receives msg, send_time: 1766629830906616317 ns, recv_time: 1766629830906620743 ns, error: 4426 ns
+Scheduler latency: 52756 ns
+[1766629830.907620365] Destination receives msg, send_time: 1766629830907616050 ns, recv_time: 1766629830907620365 ns, error: 4315 ns
+Scheduler latency: 53007 ns
+[1766629830.908620727] Destination receives msg, send_time: 1766629830908616301 ns, recv_time: 1766629830908620727 ns, error: 4426 ns
+Scheduler latency: 53314 ns
+[1766629830.909620997] Destination receives msg, send_time: 1766629830909616608 ns, recv_time: 1766629830909620997 ns, error: 4389 ns
+Scheduler latency: 53195 ns
+[1766629830.910620767] Destination receives msg, send_time: 1766629830910616489 ns, recv_time: 1766629830910620767 ns, error: 4278 ns
+Scheduler latency: 53113 ns
+[1766629830.911620907] Destination receives msg, send_time: 1766629830911616407 ns, recv_time: 1766629830911620907 ns, error: 4500 ns
+Scheduler latency: 53105 ns
+[1766629830.912621139] Destination receives msg, send_time: 1766629830912616399 ns, recv_time: 1766629830912621139 ns, error: 4740 ns
+Scheduler latency: 53393 ns
+[1766629830.913620872] Destination receives msg, send_time: 1766629830913616687 ns, recv_time: 1766629830913620872 ns, error: 4185 ns
+Scheduler latency: 53051 ns
+[1766629830.914620734] Destination receives msg, send_time: 1766629830914616345 ns, recv_time: 1766629830914620734 ns, error: 4389 ns
+Scheduler latency: 53025 ns
+[1766629830.915620430] Destination receives msg, send_time: 1766629830915616319 ns, recv_time: 1766629830915620430 ns, error: 4111 ns
+Scheduler latency: 53017 ns
+[1766629830.916620626] Destination receives msg, send_time: 1766629830916616311 ns, recv_time: 1766629830916620626 ns, error: 4315 ns
+Scheduler latency: 53286 ns
+[1766629830.917620932] Destination receives msg, send_time: 1766629830917616580 ns, recv_time: 1766629830917620932 ns, error: 4352 ns
+Scheduler latency: 53056 ns
+[1766629830.918620665] Destination receives msg, send_time: 1766629830918616350 ns, recv_time: 1766629830918620665 ns, error: 4315 ns
+Scheduler latency: 52992 ns
+[1766629830.919620601] Destination receives msg, send_time: 1766629830919616286 ns, recv_time: 1766629830919620601 ns, error: 4315 ns
+Scheduler latency: 53040 ns
+[1766629830.920620649] Destination receives msg, send_time: 1766629830920616334 ns, recv_time: 1766629830920620649 ns, error: 4315 ns
+Scheduler latency: 53217 ns
+[1766629830.921620974] Destination receives msg, send_time: 1766629830921616511 ns, recv_time: 1766629830921620974 ns, error: 4463 ns
+Scheduler latency: 53005 ns
+[1766629830.922620503] Destination receives msg, send_time: 1766629830922616299 ns, recv_time: 1766629830922620503 ns, error: 4204 ns
+Scheduler latency: 52979 ns
+[1766629830.923620588] Destination receives msg, send_time: 1766629830923616273 ns, recv_time: 1766629830923620588 ns, error: 4315 ns
+Scheduler latency: 56100 ns
+[1766629830.924623857] Destination receives msg, send_time: 1766629830924619394 ns, recv_time: 1766629830924623857 ns, error: 4463 ns --Deadline misses--
+Scheduler latency: 55203 ns
+[1766629830.925622905] Destination receives msg, send_time: 1766629830925618497 ns, recv_time: 1766629830925622905 ns, error: 4408 ns
+Scheduler latency: 457848 ns
+[1766629830.927025457] Destination receives msg, send_time: 1766629830927021142 ns, recv_time: 1766629830927025457 ns, error: 4315 ns --Deadline misses--
+Scheduler latency: 56891 ns
+[1766629830.927624611] Destination receives msg, send_time: 1766629830927620185 ns, recv_time: 1766629830927624611 ns, error: 4426 ns --Deadline misses--
+Scheduler latency: 54883 ns
+[1766629830.928622473] Destination receives msg, send_time: 1766629830928618177 ns, recv_time: 1766629830928622473 ns, error: 4296 ns
+Scheduler latency: 53486 ns
+[1766629830.929621169] Destination receives msg, send_time: 1766629830929616780 ns, recv_time: 1766629830929621169 ns, error: 4389 ns
+Scheduler latency: 53182 ns
+[1766629830.930620883] Destination receives msg, send_time: 1766629830930616476 ns, recv_time: 1766629830930620883 ns, error: 4407 ns
+Scheduler latency: 57044 ns
+[1766629830.931624893] Destination receives msg, send_time: 1766629830931620338 ns, recv_time: 1766629830931624893 ns, error: 4555 ns --Deadline misses--
+Scheduler latency: 59536 ns
+[1766629830.932627311] Destination receives msg, send_time: 1766629830932622830 ns, recv_time: 1766629830932627311 ns, error: 4481 ns --Deadline misses--
+Scheduler latency: 56491 ns
+[1766629830.933624211] Destination receives msg, send_time: 1766629830933619785 ns, recv_time: 1766629830933624211 ns, error: 4426 ns --Deadline misses--
+Scheduler latency: 65816 ns
+[1766629830.934633499] Destination receives msg, send_time: 1766629830934629110 ns, recv_time: 1766629830934633499 ns, error: 4389 ns --Deadline misses--
+Scheduler latency: 58752 ns
+[1766629830.935626509] Destination receives msg, send_time: 1766629830935622046 ns, recv_time: 1766629830935626509 ns, error: 4463 ns --Deadline misses--
+Scheduler latency: 55633 ns
+[1766629830.936623020] Destination receives msg, send_time: 1766629830936618927 ns, recv_time: 1766629830936623020 ns, error: 4093 ns
+Scheduler latency: 54107 ns
+[1766629830.937621808] Destination receives msg, send_time: 1766629830937617401 ns, recv_time: 1766629830937621808 ns, error: 4407 ns
+Scheduler latency: 53691 ns
+[1766629830.938621541] Destination receives msg, send_time: 1766629830938616985 ns, recv_time: 1766629830938621541 ns, error: 4556 ns
+Scheduler latency: 58183 ns
+[1766629830.939625773] Destination receives msg, send_time: 1766629830939621477 ns, recv_time: 1766629830939625773 ns, error: 4296 ns --Deadline misses--
+Scheduler latency: 55379 ns
+[1766629830.940622673] Destination receives msg, send_time: 1766629830940618673 ns, recv_time: 1766629830940622673 ns, error: 4000 ns
+Scheduler latency: 55093 ns
+[1766629830.941622776] Destination receives msg, send_time: 1766629830941618387 ns, recv_time: 1766629830941622776 ns, error: 4389 ns
+Scheduler latency: 56844 ns
+[1766629830.942624527] Destination receives msg, send_time: 1766629830942620138 ns, recv_time: 1766629830942624527 ns, error: 4389 ns --Deadline misses--
+Scheduler latency: 55706 ns
+[1766629830.943623482] Destination receives msg, send_time: 1766629830943619000 ns, recv_time: 1766629830943623482 ns, error: 4482 ns --Deadline misses--
+Scheduler latency: 63809 ns
+[1766629830.944631289] Destination receives msg, send_time: 1766629830944627103 ns, recv_time: 1766629830944631289 ns, error: 4186 ns --Deadline misses--
+Scheduler latency: 58894 ns
+[1766629830.945626632] Destination receives msg, send_time: 1766629830945622188 ns, recv_time: 1766629830945626632 ns, error: 4444 ns --Deadline misses--
+Scheduler latency: 57330 ns
+[1766629830.946625421] Destination receives msg, send_time: 1766629830946620624 ns, recv_time: 1766629830946625421 ns, error: 4797 ns --Deadline misses--
+Scheduler latency: 54878 ns
+[1766629830.947622727] Destination receives msg, send_time: 1766629830947618172 ns, recv_time: 1766629830947622727 ns, error: 4555 ns
+Scheduler latency: 53462 ns
+[1766629830.948621349] Destination receives msg, send_time: 1766629830948616756 ns, recv_time: 1766629830948621349 ns, error: 4593 ns
+Scheduler latency: 56843 ns
+[1766629830.949625285] Destination receives msg, send_time: 1766629830949620137 ns, recv_time: 1766629830949625285 ns, error: 5148 ns --Deadline misses--
+Scheduler latency: 54539 ns
+[1766629830.950622074] Destination receives msg, send_time: 1766629830950617833 ns, recv_time: 1766629830950622074 ns, error: 4241 ns
+Scheduler latency: 52920 ns
+[1766629830.951620380] Destination receives msg, send_time: 1766629830951616214 ns, recv_time: 1766629830951620380 ns, error: 4166 ns
+Scheduler latency: 53189 ns
+[1766629830.952620780] Destination receives msg, send_time: 1766629830952616483 ns, recv_time: 1766629830952620780 ns, error: 4297 ns
+Scheduler latency: 58255 ns
+[1766629830.953625957] Destination receives msg, send_time: 1766629830953621549 ns, recv_time: 1766629830953625957 ns, error: 4408 ns --Deadline misses--
+Scheduler latency: 54988 ns
+[1766629830.954622893] Destination receives msg, send_time: 1766629830954618282 ns, recv_time: 1766629830954622893 ns, error: 4611 ns
+Scheduler latency: 53221 ns
+[1766629830.955620718] Destination receives msg, send_time: 1766629830955616515 ns, recv_time: 1766629830955620718 ns, error: 4203 ns
+Scheduler latency: 59398 ns
+[1766629830.956626970] Destination receives msg, send_time: 1766629830956622692 ns, recv_time: 1766629830956626970 ns, error: 4278 ns --Deadline misses--
+Scheduler latency: 2475934 ns
+[1766629830.960044635] Destination receives msg, send_time: 1766629830960039228 ns, recv_time: 1766629830960044635 ns, error: 5407 ns --Deadline misses--
+Scheduler latency: 1481822 ns
+[1766629830.960049450] Destination receives msg, send_time: 1766629830960045116 ns, recv_time: 1766629830960049450 ns, error: 4334 ns --Deadline misses--
+Scheduler latency: 486619 ns
+[1766629830.960054117] Destination receives msg, send_time: 1766629830960049913 ns, recv_time: 1766629830960054117 ns, error: 4204 ns --Deadline misses--
+Scheduler latency: 64643 ns
+[1766629830.960632604] Destination receives msg, send_time: 1766629830960627937 ns, recv_time: 1766629830960632604 ns, error: 4667 ns --Deadline misses--
+Scheduler latency: 44450 ns
+[1766629830.961612596] Destination receives msg, send_time: 1766629830961607744 ns, recv_time: 1766629830961612596 ns, error: 4852 ns
+Scheduler latency: 80387 ns
+[1766629830.962648718] Destination receives msg, send_time: 1766629830962643681 ns, recv_time: 1766629830962648718 ns, error: 5037 ns --Deadline misses--
+Scheduler latency: 94508 ns
+[1766629830.963663395] Destination receives msg, send_time: 1766629830963657802 ns, recv_time: 1766629830963663395 ns, error: 5593 ns --Deadline misses--
+Scheduler latency: 101111 ns
+[1766629830.964671498] Destination receives msg, send_time: 1766629830964664405 ns, recv_time: 1766629830964671498 ns, error: 7093 ns --Deadline misses--
+Scheduler latency: 213808 ns
+[1766629830.965782010] Destination receives msg, send_time: 1766629830965777102 ns, recv_time: 1766629830965782010 ns, error: 4908 ns --Deadline misses--
+Scheduler latency: 67354 ns
+[1766629830.966635093] Destination receives msg, send_time: 1766629830966630648 ns, recv_time: 1766629830966635093 ns, error: 4445 ns --Deadline misses--
+Scheduler latency: 65309 ns
+[1766629830.967632937] Destination receives msg, send_time: 1766629830967628603 ns, recv_time: 1766629830967632937 ns, error: 4334 ns --Deadline misses--
+Scheduler latency: 63208 ns
+[1766629830.968631114] Destination receives msg, send_time: 1766629830968626502 ns, recv_time: 1766629830968631114 ns, error: 4612 ns --Deadline misses--
+Scheduler latency: 41959 ns
+[1766629830.969610735] Destination receives msg, send_time: 1766629830969605253 ns, recv_time: 1766629830969610735 ns, error: 5482 ns
 === Summary ===
 Total received: 300
-Deadline misses: 8
+Deadline misses: 108
 WARNING: ---- There are 1 unprocessed future events on the event queue.
 WARNING: ---- The first future event has timestamp (300000000, 0) after start tag.
 WARNING: ---- Cleared 1 unprocessed events from the event queue.
 ---- Elapsed logical time (in nsec): 299,000,000
----- Elapsed physical time (in nsec): 299,227,908
+---- Elapsed physical time (in nsec): 299,369,981

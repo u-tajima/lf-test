@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DLOG_LEVEL=2
 
-C_INCLUDES = -I/home/yu/lf-test/src-gen/DeadlineTest2/low_level_platform/api -I/home/yu/lf-test/src-gen/DeadlineTest2/tag/api -I/home/yu/lf-test/src-gen/DeadlineTest2/platform/api
+C_INCLUDES = -I/home/u-tajima/lf-test/src-gen/DeadlineTest2/low_level_platform/api -I/home/u-tajima/lf-test/src-gen/DeadlineTest2/tag/api -I/home/u-tajima/lf-test/src-gen/DeadlineTest2/platform/api
 
 C_FLAGS = -O3 -DNDEBUG -std=gnu11 -fdiagnostics-color=always
 

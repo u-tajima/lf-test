@@ -191,6 +191,6 @@ main reactor {
     =}
 
     s = new Source(period = 1 msec)
-    d = new Destination(timeout = 100 usec)
+    d = new Destination(timeout = 60 usec)
     s.y -> d.x
 }

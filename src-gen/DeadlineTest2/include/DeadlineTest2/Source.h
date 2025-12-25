@@ -3,7 +3,7 @@
 #ifndef _SOURCE_H // necessary for arduino-cli, which automatically includes headers that are not used
 #ifndef TOP_LEVEL_PREAMBLE_2066945445_H
 #define TOP_LEVEL_PREAMBLE_2066945445_H
-/*Correspondence: Range: [(6, 4), (15, 1)) -> Range: [(0, 0), (9, 1)) (verbatim=true; src=/home/yu/lf-test/src/DeadlineTest2.lf)*/#define DUMMY_LOOP_COUNT 0
+/*Correspondence: Range: [(6, 4), (15, 1)) -> Range: [(0, 0), (9, 1)) (verbatim=true; src=/home/u-tajima/lf-test/src/DeadlineTest2.lf)*/#define DUMMY_LOOP_COUNT 0
 #include <time.h>
 #include "platform.h"
 #include <stdio.h>

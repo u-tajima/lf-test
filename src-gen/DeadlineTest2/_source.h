@@ -30,14 +30,14 @@ typedef struct {
 } _source_y_t;
 typedef struct {
     struct self_base_t base;
-    #line 19 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 19 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     interval_t period;
-#line 36 "/home/yu/lf-test/src-gen/DeadlineTest2/_source.h"
-    #line 23 "/home/yu/lf-test/src/DeadlineTest2.lf"
+#line 36 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_source.h"
+    #line 23 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     int count;
-    #line 24 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 24 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     int64_t last_send_time;
-#line 41 "/home/yu/lf-test/src-gen/DeadlineTest2/_source.h"
+#line 41 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_source.h"
     _source_y_t _lf_y;
     int _lf_y_width;
     reaction_t _lf__reaction_0;

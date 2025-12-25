@@ -1,4 +1,4 @@
-# Install script for directory: /home/yu/lf-test/src-gen/DeadlineTest2/core
+# Install script for directory: /home/u-tajima/lf-test/src-gen/DeadlineTest2/core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

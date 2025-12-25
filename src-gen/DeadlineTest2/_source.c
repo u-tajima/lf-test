@@ -11,7 +11,7 @@
 void _sourcereaction_function_0(void* instance_args) {
     _source_self_t* self = (_source_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     _source_y_t* y = &self->_lf_y;
-    #line 27 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 27 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     long logical_fire_ns = lf_time_logical(); // logical time in ns (API依存、または自分で定義)
     long reaction_start_ns = get_time_ns();
     
@@ -40,7 +40,7 @@ void _sourcereaction_function_0(void* instance_args) {
     
     lf_set(y, send_time_ns);
     (self->count)++;
-#line 44 "/home/yu/lf-test/src-gen/DeadlineTest2/_source.c"
+#line 44 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_source.c"
 }
 #include "include/api/reaction_macros_undef.h"
 _source_self_t* new__source() {

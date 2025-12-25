@@ -1,5 +1,5 @@
-Linux 6.14.0-37-generic (yu-Surface-Laptop-3) 	2025年12月19日 	_x86_64_	(4 CPU)
+Linux 6.12.47+rpt-rpi-2712 (u-tajima) 	25/12/25 	_aarch64_	(4 CPU)
 
-10時40分31秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-10時40分32秒  all   50.88    0.00    0.75    0.00    0.00    0.00    0.00    0.00    0.00   48.37
-10時40分33秒  all   50.50    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00   49.50
+11:30:09     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:30:10     all   52.39    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00   47.61
+11:30:11     all   50.37    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00   49.63

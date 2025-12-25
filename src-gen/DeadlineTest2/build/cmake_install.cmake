@@ -1,4 +1,4 @@
-# Install script for directory: /home/yu/lf-test/src-gen/DeadlineTest2
+# Install script for directory: /home/u-tajima/lf-test/src-gen/DeadlineTest2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/yu/lf-test/src-gen/DeadlineTest2/build/core/cmake_install.cmake")
+  include("/home/u-tajima/lf-test/src-gen/DeadlineTest2/build/core/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -54,7 +54,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/DeadlineTest2"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE MESSAGE_NEVER FILES "/home/yu/lf-test/src-gen/DeadlineTest2/build/DeadlineTest2")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE MESSAGE_NEVER FILES "/home/u-tajima/lf-test/src-gen/DeadlineTest2/build/DeadlineTest2")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/DeadlineTest2" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/DeadlineTest2")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -71,5 +71,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/yu/lf-test/src-gen/DeadlineTest2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/u-tajima/lf-test/src-gen/DeadlineTest2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

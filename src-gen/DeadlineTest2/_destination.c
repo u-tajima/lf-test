@@ -12,7 +12,7 @@ void _destinationreaction_function_0(void* instance_args) {
     _destination_self_t* self = (_destination_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     _destination_x_t* x = self->_lf_x;
     int x_width = self->_lf_x_width; SUPPRESS_UNUSED_WARNING(x_width);
-    #line 67 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 67 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     (self->count)++;
     (self->total_received)++;
     
@@ -37,13 +37,13 @@ void _destinationreaction_function_0(void* instance_args) {
         printf("Deadline misses: %d\n", self->deadline_miss_count);
         exit(0);
     }
-#line 41 "/home/yu/lf-test/src-gen/DeadlineTest2/_destination.c"
+#line 41 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_destination.c"
 }
 void _destination_deadline_function0(void* instance_args) {
     _destination_self_t* self = (_destination_self_t*)instance_args; SUPPRESS_UNUSED_WARNING(self);
     _destination_x_t* x = self->_lf_x;
     int x_width = self->_lf_x_width; SUPPRESS_UNUSED_WARNING(x_width);
-    #line 94 "/home/yu/lf-test/src/DeadlineTest2.lf"
+    #line 94 "/home/u-tajima/lf-test/src/DeadlineTest2.lf"
     (self->deadline_miss_count)++;
     (self->count)++;
     (self->total_received)++;
@@ -63,7 +63,7 @@ void _destination_deadline_function0(void* instance_args) {
         printf("Deadline misses: %d\n", self->deadline_miss_count);
         exit(0);
     }
-#line 67 "/home/yu/lf-test/src-gen/DeadlineTest2/_destination.c"
+#line 67 "/home/u-tajima/lf-test/src-gen/DeadlineTest2/_destination.c"
 }
 #include "include/api/reaction_macros_undef.h"
 _destination_self_t* new__destination() {

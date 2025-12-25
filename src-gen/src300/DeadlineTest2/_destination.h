@@ -1,8 +1,8 @@
 #ifndef _DESTINATION_H
 #define _DESTINATION_H
 #include "include/core/reactor.h"
-#ifndef TOP_LEVEL_PREAMBLE_247575268_H
-#define TOP_LEVEL_PREAMBLE_247575268_H
+#ifndef TOP_LEVEL_PREAMBLE_143251944_H
+#define TOP_LEVEL_PREAMBLE_143251944_H
 #define DUMMY_LOOP_COUNT 1000
 #include <time.h>
 #include "platform.h"
@@ -42,7 +42,7 @@ static inline long get_time_ns() {
     clock_gettime(CLOCK_REALTIME, &ts);
     return ts.tv_sec * 1000000000L + ts.tv_nsec;
 }
-#endif // TOP_LEVEL_PREAMBLE_247575268_H
+#endif // TOP_LEVEL_PREAMBLE_143251944_H
 typedef struct {
     token_type_t type;
     lf_token_t* token;
@@ -59,18 +59,18 @@ typedef struct {
 } _destination_x_t;
 typedef struct {
     struct self_base_t base;
-    #line 99 "/home/yu/lf-test/src300/DeadlineTest2.lf"
+    #line 99 "/home/u-tajima/lf-test/src300/DeadlineTest2.lf"
     interval_t timeout;
-#line 65 "/home/yu/lf-test/src-gen/src300/DeadlineTest2/_destination.h"
-    #line 101 "/home/yu/lf-test/src300/DeadlineTest2.lf"
+#line 65 "/home/u-tajima/lf-test/src-gen/src300/DeadlineTest2/_destination.h"
+    #line 101 "/home/u-tajima/lf-test/src300/DeadlineTest2.lf"
     int count;
-    #line 102 "/home/yu/lf-test/src300/DeadlineTest2.lf"
+    #line 102 "/home/u-tajima/lf-test/src300/DeadlineTest2.lf"
     int deadline_miss_count;
-    #line 103 "/home/yu/lf-test/src300/DeadlineTest2.lf"
+    #line 103 "/home/u-tajima/lf-test/src300/DeadlineTest2.lf"
     int total_received;
-    #line 104 "/home/yu/lf-test/src300/DeadlineTest2.lf"
+    #line 104 "/home/u-tajima/lf-test/src300/DeadlineTest2.lf"
     int max_count;
-#line 74 "/home/yu/lf-test/src-gen/src300/DeadlineTest2/_destination.h"
+#line 74 "/home/u-tajima/lf-test/src-gen/src300/DeadlineTest2/_destination.h"
     _destination_x_t* _lf_x;
     // width of -2 indicates that it is not a multiport.
     int _lf_x_width;

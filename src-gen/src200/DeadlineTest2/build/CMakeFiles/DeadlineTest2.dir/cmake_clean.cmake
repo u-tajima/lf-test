@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/DeadlineTest2.dir/link.d"
   "CMakeFiles/DeadlineTest2.dir/DeadlineTest2.c.o"
   "CMakeFiles/DeadlineTest2.dir/DeadlineTest2.c.o.d"
   "CMakeFiles/DeadlineTest2.dir/_deadlinetest2_main.c.o"

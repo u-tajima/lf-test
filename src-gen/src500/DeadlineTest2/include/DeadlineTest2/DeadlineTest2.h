@@ -1,9 +1,9 @@
 #ifndef _deadlinetest2_main_H
 #define _deadlinetest2_main_H
 #ifndef _DEADLINETEST2_MAIN_H // necessary for arduino-cli, which automatically includes headers that are not used
-#ifndef TOP_LEVEL_PREAMBLE_247575268_H
-#define TOP_LEVEL_PREAMBLE_247575268_H
-/*Correspondence: Range: [(8, 4), (46, 1)) -> Range: [(0, 0), (38, 1)) (verbatim=true; src=/home/yu/lf-test/src500/DeadlineTest2.lf)*/#define DUMMY_LOOP_COUNT 1000
+#ifndef TOP_LEVEL_PREAMBLE_143251944_H
+#define TOP_LEVEL_PREAMBLE_143251944_H
+/*Correspondence: Range: [(8, 4), (46, 1)) -> Range: [(0, 0), (38, 1)) (verbatim=true; src=/home/u-tajima/lf-test/src500/DeadlineTest2.lf)*/#define DUMMY_LOOP_COUNT 1000
 #include <time.h>
 #include "platform.h"
 #include <stdio.h>
@@ -42,7 +42,7 @@ static inline long get_time_ns() {
     clock_gettime(CLOCK_REALTIME, &ts);
     return ts.tv_sec * 1000000000L + ts.tv_nsec;
 }
-#endif // TOP_LEVEL_PREAMBLE_247575268_H
+#endif // TOP_LEVEL_PREAMBLE_143251944_H
 
 
 #ifdef __cplusplus

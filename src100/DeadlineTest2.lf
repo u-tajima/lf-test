@@ -192,6 +192,6 @@ main reactor {
 
     s = new Source(period = 1 msec)
     // timeoutを少し緩めて実験開始しやすくしています (10us -> 100us)
-    d = new Destination(timeout = 80 usec)
+    d = new Destination(timeout = 50 usec)
     s.y -> d.x
 }
